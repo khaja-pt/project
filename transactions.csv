@@ -1,0 +1,8002 @@
+[
+  {
+    "account_id": "83",
+    "amount": "3954.25",
+    "medium": "online",
+    "timestamp": "2021-04-05 12:39:03",
+    "transaction_id": "1",
+    "type": "False"
+  },
+  {
+    "account_id": "67",
+    "amount": "2714.77",
+    "medium": "transfer",
+    "timestamp": "2020-08-24 11:31:28",
+    "transaction_id": "2",
+    "type": "False"
+  },
+  {
+    "account_id": "42",
+    "amount": "1785.27",
+    "medium": "card",
+    "timestamp": "2023-05-02 22:04:43",
+    "transaction_id": "3",
+    "type": "False"
+  },
+  {
+    "account_id": "5",
+    "amount": "1351.48",
+    "medium": "transfer",
+    "timestamp": "2023-03-04 01:02:05",
+    "transaction_id": "4",
+    "type": "False"
+  },
+  {
+    "account_id": "55",
+    "amount": "1632.82",
+    "medium": "card",
+    "timestamp": "2024-06-23 17:37:54",
+    "transaction_id": "5",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "7853.1",
+    "medium": "online",
+    "timestamp": "2022-01-19 10:28:16",
+    "transaction_id": "6",
+    "type": "False"
+  },
+  {
+    "account_id": "12",
+    "amount": "1638.35",
+    "medium": "card",
+    "timestamp": "2021-03-12 10:51:33",
+    "transaction_id": "7",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "7601.38",
+    "medium": "card",
+    "timestamp": "2020-08-17 11:19:43",
+    "transaction_id": "8",
+    "type": "False"
+  },
+  {
+    "account_id": "69",
+    "amount": "9941.21",
+    "medium": "transfer",
+    "timestamp": "2022-09-02 02:21:23",
+    "transaction_id": "9",
+    "type": "False"
+  },
+  {
+    "account_id": "64",
+    "amount": "4862.5",
+    "medium": "online",
+    "timestamp": "2020-08-04 05:21:48",
+    "transaction_id": "10",
+    "type": "False"
+  },
+  {
+    "account_id": "30",
+    "amount": "6271.61",
+    "medium": "online",
+    "timestamp": "2023-09-20 21:49:40",
+    "transaction_id": "11",
+    "type": "False"
+  },
+  {
+    "account_id": "20",
+    "amount": "6885.38",
+    "medium": "transfer",
+    "timestamp": "2022-08-10 19:42:35",
+    "transaction_id": "12",
+    "type": "False"
+  },
+  {
+    "account_id": "100",
+    "amount": "8281.05",
+    "medium": "online",
+    "timestamp": "2024-10-07 22:55:35",
+    "transaction_id": "13",
+    "type": "False"
+  },
+  {
+    "account_id": "30",
+    "amount": "6285.62",
+    "medium": "online",
+    "timestamp": "2022-07-26 18:04:30",
+    "transaction_id": "14",
+    "type": "True"
+  },
+  {
+    "account_id": "83",
+    "amount": "8147.05",
+    "medium": "card",
+    "timestamp": "2020-05-28 18:42:58",
+    "transaction_id": "15",
+    "type": "True"
+  },
+  {
+    "account_id": "7",
+    "amount": "3022.23",
+    "medium": "transfer",
+    "timestamp": "2020-12-20 06:42:15",
+    "transaction_id": "16",
+    "type": "False"
+  },
+  {
+    "account_id": "13",
+    "amount": "1013.88",
+    "medium": "online",
+    "timestamp": "2024-06-12 10:20:36",
+    "transaction_id": "17",
+    "type": "False"
+  },
+  {
+    "account_id": "59",
+    "amount": "3145.57",
+    "medium": "online",
+    "timestamp": "2021-12-24 09:17:47",
+    "transaction_id": "18",
+    "type": "False"
+  },
+  {
+    "account_id": "50",
+    "amount": "5162.91",
+    "medium": "online",
+    "timestamp": "2021-09-02 16:46:45",
+    "transaction_id": "19",
+    "type": "False"
+  },
+  {
+    "account_id": "69",
+    "amount": "9857.09",
+    "medium": "transfer",
+    "timestamp": "2020-10-11 11:16:44",
+    "transaction_id": "20",
+    "type": "True"
+  },
+  {
+    "account_id": "25",
+    "amount": "3333.94",
+    "medium": "transfer",
+    "timestamp": "2020-07-26 16:11:48",
+    "transaction_id": "21",
+    "type": "False"
+  },
+  {
+    "account_id": "38",
+    "amount": "8770.05",
+    "medium": "online",
+    "timestamp": "2024-02-23 04:27:02",
+    "transaction_id": "22",
+    "type": "False"
+  },
+  {
+    "account_id": "50",
+    "amount": "8226.34",
+    "medium": "card",
+    "timestamp": "2023-04-12 03:51:04",
+    "transaction_id": "23",
+    "type": "True"
+  },
+  {
+    "account_id": "36",
+    "amount": "8284.51",
+    "medium": "card",
+    "timestamp": "2023-06-29 22:41:02",
+    "transaction_id": "24",
+    "type": "False"
+  },
+  {
+    "account_id": "83",
+    "amount": "7258.9",
+    "medium": "transfer",
+    "timestamp": "2024-08-13 09:52:40",
+    "transaction_id": "25",
+    "type": "False"
+  },
+  {
+    "account_id": "20",
+    "amount": "4860.41",
+    "medium": "transfer",
+    "timestamp": "2023-07-10 06:46:34",
+    "transaction_id": "26",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "9121.1",
+    "medium": "card",
+    "timestamp": "2020-06-13 00:42:03",
+    "transaction_id": "27",
+    "type": "False"
+  },
+  {
+    "account_id": "20",
+    "amount": "5837.37",
+    "medium": "transfer",
+    "timestamp": "2024-04-10 02:37:59",
+    "transaction_id": "28",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "6093.32",
+    "medium": "card",
+    "timestamp": "2023-05-04 17:43:04",
+    "transaction_id": "29",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "3666.37",
+    "medium": "online",
+    "timestamp": "2020-09-29 18:46:51",
+    "transaction_id": "30",
+    "type": "True"
+  },
+  {
+    "account_id": "95",
+    "amount": "6266.11",
+    "medium": "online",
+    "timestamp": "2021-12-24 00:54:43",
+    "transaction_id": "31",
+    "type": "False"
+  },
+  {
+    "account_id": "82",
+    "amount": "1152.55",
+    "medium": "card",
+    "timestamp": "2021-11-16 09:54:50",
+    "transaction_id": "32",
+    "type": "False"
+  },
+  {
+    "account_id": "55",
+    "amount": "4285.78",
+    "medium": "online",
+    "timestamp": "2023-02-28 23:06:00",
+    "transaction_id": "33",
+    "type": "True"
+  },
+  {
+    "account_id": "52",
+    "amount": "7942.32",
+    "medium": "transfer",
+    "timestamp": "2021-06-05 03:19:03",
+    "transaction_id": "34",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "8663.81",
+    "medium": "transfer",
+    "timestamp": "2022-06-08 11:03:43",
+    "transaction_id": "35",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "8663.81",
+    "medium": "transfer",
+    "timestamp": "2022-06-08 11:03:43",
+    "transaction_id": "35",
+    "type": "False"
+  },
+  {
+    "account_id": "96",
+    "amount": "9258.43",
+    "medium": "transfer",
+    "timestamp": "2023-11-16 16:25:17",
+    "transaction_id": "36",
+    "type": "False"
+  },
+  {
+    "account_id": "96",
+    "amount": "3822.35",
+    "medium": "online",
+    "timestamp": "2022-11-11 02:06:51",
+    "transaction_id": "37",
+    "type": "True"
+  },
+  {
+    "account_id": "45",
+    "amount": "4763.62",
+    "medium": "online",
+    "timestamp": "2021-12-22 15:25:10",
+    "transaction_id": "38",
+    "type": "False"
+  },
+  {
+    "account_id": "58",
+    "amount": "1230.24",
+    "medium": "transfer",
+    "timestamp": "2022-08-01 14:00:38",
+    "transaction_id": "39",
+    "type": "False"
+  },
+  {
+    "account_id": "17",
+    "amount": ") --",
+    "medium": "transfer",
+    "timestamp": "2020-11-28 10:21:07",
+    "transaction_id": "40",
+    "type": "False"
+  },
+  {
+    "account_id": "17",
+    "amount": "3238.76",
+    "medium": "transfer",
+    "timestamp": "2020-11-28 10:21:07",
+    "transaction_id": "40",
+    "type": "False"
+  },
+  {
+    "account_id": "7",
+    "amount": "4173.58",
+    "medium": "card",
+    "timestamp": "2021-11-16 07:01:24",
+    "transaction_id": "41",
+    "type": "True"
+  },
+  {
+    "account_id": "16",
+    "amount": "5089.48",
+    "medium": "online",
+    "timestamp": "2023-12-22 00:12:03",
+    "transaction_id": "42",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "'",
+    "medium": "online",
+    "timestamp": "2024-01-23 05:46:56",
+    "transaction_id": "43",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "9967.14",
+    "medium": "online",
+    "timestamp": "2024-01-23 05:46:56",
+    "transaction_id": "43",
+    "type": "True"
+  },
+  {
+    "account_id": "23",
+    "amount": "9652.64",
+    "medium": "card",
+    "timestamp": "2024-08-01 15:02:12",
+    "transaction_id": "44",
+    "type": "False"
+  },
+  {
+    "account_id": "47",
+    "amount": "1498.11",
+    "medium": "online",
+    "timestamp": "2024-08-14 07:32:32",
+    "transaction_id": "45",
+    "type": "False"
+  },
+  {
+    "account_id": "98",
+    "amount": "1099.45",
+    "medium": "transfer",
+    "timestamp": "2020-10-10 00:56:16",
+    "transaction_id": "46",
+    "type": "False"
+  },
+  {
+    "account_id": "77",
+    "amount": "5740.2",
+    "medium": "transfer",
+    "timestamp": "2023-10-23 14:45:19",
+    "transaction_id": "47",
+    "type": "False"
+  },
+  {
+    "account_id": "83",
+    "amount": "8730.97",
+    "medium": "card",
+    "timestamp": "2022-12-25 19:21:32",
+    "transaction_id": "48",
+    "type": "False"
+  },
+  {
+    "account_id": "9",
+    "amount": "9016.78",
+    "medium": "card",
+    "timestamp": "2021-11-16 12:27:41",
+    "transaction_id": "49",
+    "type": "False"
+  },
+  {
+    "account_id": "73",
+    "amount": "4972.59",
+    "medium": "card",
+    "timestamp": "2023-07-06 04:18:51",
+    "transaction_id": "50",
+    "type": "False"
+  },
+  {
+    "account_id": "4",
+    "amount": "1916.32",
+    "medium": "transfer",
+    "timestamp": "2020-12-26 04:36:43",
+    "transaction_id": "51",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "1938.66",
+    "medium": "online",
+    "timestamp": "2023-12-19 14:56:44",
+    "transaction_id": "52",
+    "type": "False"
+  },
+  {
+    "account_id": "41",
+    "amount": "2153.91",
+    "medium": "card",
+    "timestamp": "2023-05-01 02:13:22",
+    "transaction_id": "53",
+    "type": "False"
+  },
+  {
+    "account_id": "41",
+    "amount": "2153.91",
+    "medium": "card",
+    "timestamp": "2023-05-01 02:13:22",
+    "transaction_id": "53",
+    "type": "False"
+  },
+  {
+    "account_id": "4",
+    "amount": "102.55",
+    "medium": "transfer",
+    "timestamp": "2022-11-20 06:36:19",
+    "transaction_id": "54",
+    "type": "False"
+  },
+  {
+    "account_id": "67",
+    "amount": "4465.5",
+    "medium": "card",
+    "timestamp": "2021-11-12 03:10:04",
+    "transaction_id": "55",
+    "type": "False"
+  },
+  {
+    "account_id": "62",
+    "amount": "5762.45",
+    "medium": "online",
+    "timestamp": "2020-03-20 03:16:50",
+    "transaction_id": "56",
+    "type": "False"
+  },
+  {
+    "account_id": "25",
+    "amount": "2400.67",
+    "medium": "card",
+    "timestamp": "2022-08-12 11:40:46",
+    "transaction_id": "57",
+    "type": "False"
+  },
+  {
+    "account_id": "24",
+    "amount": "9814.09",
+    "medium": "online",
+    "timestamp": "2023-07-13 01:28:58",
+    "transaction_id": "58",
+    "type": "False"
+  },
+  {
+    "account_id": "17",
+    "amount": "4713.63",
+    "medium": "transfer",
+    "timestamp": "2023-03-18 05:02:41",
+    "transaction_id": "59",
+    "type": "False"
+  },
+  {
+    "account_id": "84",
+    "amount": "6759.35",
+    "medium": "transfer",
+    "timestamp": "2021-12-13 18:29:25",
+    "transaction_id": "60",
+    "type": "False"
+  },
+  {
+    "account_id": "84",
+    "amount": "6759.35",
+    "medium": "transfer",
+    "timestamp": "2021-12-13 18:29:25",
+    "transaction_id": "60",
+    "type": "False"
+  },
+  {
+    "account_id": "81",
+    "amount": "1182.83",
+    "medium": "card",
+    "timestamp": "2021-01-18 18:29:20",
+    "transaction_id": "61",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "6475.36",
+    "medium": "card",
+    "timestamp": "2023-10-15 05:07:14",
+    "transaction_id": "62",
+    "type": "False"
+  },
+  {
+    "account_id": "11",
+    "amount": "3034.61",
+    "medium": "online",
+    "timestamp": "2023-12-09 18:22:45",
+    "transaction_id": "63",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "1868.01",
+    "medium": "transfer",
+    "timestamp": "2023-11-14 14:42:15",
+    "transaction_id": "64",
+    "type": "False"
+  },
+  {
+    "account_id": "21",
+    "amount": "9325.07",
+    "medium": "card",
+    "timestamp": "2023-10-14 20:36:44",
+    "transaction_id": "65",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "8589.89",
+    "medium": "online",
+    "timestamp": "2023-05-27 09:05:47",
+    "transaction_id": "66",
+    "type": "False"
+  },
+  {
+    "account_id": "48",
+    "amount": "8877.44",
+    "medium": "transfer",
+    "timestamp": "2023-04-30 01:43:51",
+    "transaction_id": "67",
+    "type": "False"
+  },
+  {
+    "account_id": "4",
+    "amount": "9963.65",
+    "medium": "online",
+    "timestamp": "2023-01-04 05:06:51",
+    "transaction_id": "68",
+    "type": "True"
+  },
+  {
+    "account_id": "9",
+    "amount": "4627.02",
+    "medium": "card",
+    "timestamp": "2023-09-15 01:50:44",
+    "transaction_id": "69",
+    "type": "True"
+  },
+  {
+    "account_id": "86",
+    "amount": "9242.0",
+    "medium": "online",
+    "timestamp": "2021-12-26 04:27:19",
+    "transaction_id": "70",
+    "type": "False"
+  },
+  {
+    "account_id": "21",
+    "amount": "1237.57",
+    "medium": "card",
+    "timestamp": "2023-10-05 17:04:51",
+    "transaction_id": "71",
+    "type": "False"
+  },
+  {
+    "account_id": "24",
+    "amount": "8085.95",
+    "medium": "transfer",
+    "timestamp": "2021-01-06 14:53:36",
+    "transaction_id": "72",
+    "type": "False"
+  },
+  {
+    "account_id": "60",
+    "amount": "7196.1",
+    "medium": "transfer",
+    "timestamp": "2024-01-19 23:52:44",
+    "transaction_id": "73",
+    "type": "False"
+  },
+  {
+    "account_id": "78",
+    "amount": "1744.74",
+    "medium": "transfer",
+    "timestamp": "2020-08-17 09:50:58",
+    "transaction_id": "74",
+    "type": "False"
+  },
+  {
+    "account_id": "69",
+    "amount": "3796.84",
+    "medium": "transfer",
+    "timestamp": "2020-04-12 18:11:43",
+    "transaction_id": "75",
+    "type": "True"
+  },
+  {
+    "account_id": "30",
+    "amount": "1550.34",
+    "medium": "transfer",
+    "timestamp": "2020-04-14 22:47:33",
+    "transaction_id": "76",
+    "type": "True"
+  },
+  {
+    "account_id": "33",
+    "amount": "2820.61",
+    "medium": "online",
+    "timestamp": "2022-02-10 07:06:04",
+    "transaction_id": "77",
+    "type": "False"
+  },
+  {
+    "account_id": "38",
+    "amount": "5234.24",
+    "medium": "online",
+    "timestamp": "2023-08-25 11:46:23",
+    "transaction_id": "78",
+    "type": "True"
+  },
+  {
+    "account_id": "32",
+    "amount": "..8",
+    "medium": "online",
+    "timestamp": "2022-11-13 15:40:30",
+    "transaction_id": "79",
+    "type": "False"
+  },
+  {
+    "account_id": "32",
+    "amount": "6744.02",
+    "medium": "online",
+    "timestamp": "2022-11-13 15:40:30",
+    "transaction_id": "79",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "209.31",
+    "medium": "transfer",
+    "timestamp": "2021-12-18 13:24:33",
+    "transaction_id": "80",
+    "type": "True"
+  },
+  {
+    "account_id": "97",
+    "amount": "7323.9",
+    "medium": "online",
+    "timestamp": "2024-06-17 09:19:36",
+    "transaction_id": "81",
+    "type": "False"
+  },
+  {
+    "account_id": "62",
+    "amount": "1381.16",
+    "medium": "online",
+    "timestamp": "2022-07-13 19:29:43",
+    "transaction_id": "82",
+    "type": "True"
+  },
+  {
+    "account_id": "98",
+    "amount": "4427.7",
+    "medium": "transfer",
+    "timestamp": "2020-02-03 15:06:40",
+    "transaction_id": "83",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "'",
+    "medium": "online",
+    "timestamp": "2023-07-16 05:18:36",
+    "transaction_id": "84",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "4292.47",
+    "medium": "online",
+    "timestamp": "2023-07-16 05:18:36",
+    "transaction_id": "84",
+    "type": "False"
+  },
+  {
+    "account_id": "25",
+    "amount": "6556.07",
+    "medium": "card",
+    "timestamp": "2023-04-03 20:37:42",
+    "transaction_id": "85",
+    "type": "True"
+  },
+  {
+    "account_id": "26",
+    "amount": "1593.95",
+    "medium": "online",
+    "timestamp": "2022-09-13 19:33:46",
+    "transaction_id": "86",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "18.62",
+    "medium": "transfer",
+    "timestamp": "2024-07-11 20:05:54",
+    "transaction_id": "87",
+    "type": "True"
+  },
+  {
+    "account_id": "15",
+    "amount": "8967.35",
+    "medium": "transfer",
+    "timestamp": "2021-07-12 06:17:18",
+    "transaction_id": "88",
+    "type": "False"
+  },
+  {
+    "account_id": "42",
+    "amount": "6015.92",
+    "medium": "online",
+    "timestamp": "2022-04-16 03:32:23",
+    "transaction_id": "89",
+    "type": "True"
+  },
+  {
+    "account_id": "40",
+    "amount": "3328.51",
+    "medium": "card",
+    "timestamp": "2021-06-03 16:17:39",
+    "transaction_id": "90",
+    "type": "False"
+  },
+  {
+    "account_id": "50",
+    "amount": "6263.18",
+    "medium": "card",
+    "timestamp": "2023-07-30 04:08:49",
+    "transaction_id": "91",
+    "type": "False"
+  },
+  {
+    "account_id": "26",
+    "amount": "5802.2",
+    "medium": "online",
+    "timestamp": "2023-03-15 22:27:46",
+    "transaction_id": "92",
+    "type": "True"
+  },
+  {
+    "account_id": "88",
+    "amount": "1868.07",
+    "medium": "card",
+    "timestamp": "2024-08-12 21:05:09",
+    "transaction_id": "93",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "5588.42",
+    "medium": "card",
+    "timestamp": "2022-05-29 22:32:03",
+    "transaction_id": "94",
+    "type": "False"
+  },
+  {
+    "account_id": "47",
+    "amount": "6138.45",
+    "medium": "online",
+    "timestamp": "2021-12-08 11:35:24",
+    "transaction_id": "95",
+    "type": "True"
+  },
+  {
+    "account_id": "94",
+    "amount": "5869.27",
+    "medium": "transfer",
+    "timestamp": "2021-10-23 03:59:07",
+    "transaction_id": "96",
+    "type": "False"
+  },
+  {
+    "account_id": "19",
+    "amount": "8694.23",
+    "medium": "online",
+    "timestamp": "2023-11-24 02:15:01",
+    "transaction_id": "97",
+    "type": "False"
+  },
+  {
+    "account_id": "92",
+    "amount": "4387.82",
+    "medium": "transfer",
+    "timestamp": "2022-02-28 02:42:04",
+    "transaction_id": "98",
+    "type": "False"
+  },
+  {
+    "account_id": "26",
+    "amount": "4801.45",
+    "medium": "transfer",
+    "timestamp": "2020-09-11 04:50:32",
+    "transaction_id": "99",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "8101.57",
+    "medium": "online",
+    "timestamp": "2021-09-24 10:59:49",
+    "transaction_id": "100",
+    "type": "False"
+  },
+  {
+    "account_id": "81",
+    "amount": "INVALID",
+    "medium": "transfer",
+    "timestamp": "2022-01-31 01:51:09",
+    "transaction_id": "101",
+    "type": "False"
+  },
+  {
+    "account_id": "81",
+    "amount": "8065.64",
+    "medium": "transfer",
+    "timestamp": "2022-01-31 01:51:09",
+    "transaction_id": "101",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "2868.65",
+    "medium": "card",
+    "timestamp": "2020-02-04 01:52:33",
+    "transaction_id": "102",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "5061.58",
+    "medium": "card",
+    "timestamp": "2023-12-17 18:20:50",
+    "transaction_id": "103",
+    "type": "False"
+  },
+  {
+    "account_id": "64",
+    "amount": "8558.1",
+    "medium": "online",
+    "timestamp": "2023-05-30 14:57:28",
+    "transaction_id": "104",
+    "type": "False"
+  },
+  {
+    "account_id": "13",
+    "amount": "5682.34",
+    "medium": "transfer",
+    "timestamp": "2023-12-06 01:26:26",
+    "transaction_id": "105",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "735.88",
+    "medium": "transfer",
+    "timestamp": "2021-10-17 02:58:43",
+    "transaction_id": "106",
+    "type": "False"
+  },
+  {
+    "account_id": "65",
+    "amount": "6910.08",
+    "medium": "online",
+    "timestamp": "2023-06-27 13:42:18",
+    "transaction_id": "107",
+    "type": "False"
+  },
+  {
+    "account_id": "34",
+    "amount": "1483.34",
+    "medium": "card",
+    "timestamp": "2022-05-30 12:39:07",
+    "transaction_id": "108",
+    "type": "False"
+  },
+  {
+    "account_id": "47",
+    "amount": "9644.88",
+    "medium": "card",
+    "timestamp": "2023-02-09 15:44:28",
+    "transaction_id": "109",
+    "type": "True"
+  },
+  {
+    "account_id": "18",
+    "amount": "1621.33",
+    "medium": "transfer",
+    "timestamp": "2024-06-13 02:39:13",
+    "transaction_id": "110",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "6997.25",
+    "medium": "card",
+    "timestamp": "2022-12-21 17:07:22",
+    "transaction_id": "111",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "9985.41",
+    "medium": "online",
+    "timestamp": "2022-05-20 13:39:39",
+    "transaction_id": "112",
+    "type": "False"
+  },
+  {
+    "account_id": "33",
+    "amount": "9454.48",
+    "medium": "online",
+    "timestamp": "2022-05-02 15:00:34",
+    "transaction_id": "113",
+    "type": "True"
+  },
+  {
+    "account_id": "3",
+    "amount": "618.36",
+    "medium": "online",
+    "timestamp": "2021-12-23 02:54:22",
+    "transaction_id": "114",
+    "type": "False"
+  },
+  {
+    "account_id": "69",
+    "amount": "7143.25",
+    "medium": "transfer",
+    "timestamp": "2020-05-12 12:16:41",
+    "transaction_id": "115",
+    "type": "True"
+  },
+  {
+    "account_id": "90",
+    "amount": "1786.07",
+    "medium": "card",
+    "timestamp": "2023-05-10 11:56:52",
+    "transaction_id": "116",
+    "type": "False"
+  },
+  {
+    "account_id": "61",
+    "amount": "6942.29",
+    "medium": "transfer",
+    "timestamp": "2020-03-24 04:17:39",
+    "transaction_id": "117",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "651.88",
+    "medium": "online",
+    "timestamp": "2024-06-06 05:01:50",
+    "transaction_id": "118",
+    "type": "False"
+  },
+  {
+    "account_id": "23",
+    "amount": "8052.12",
+    "medium": "online",
+    "timestamp": "2020-12-17 16:51:27",
+    "transaction_id": "119",
+    "type": "False"
+  },
+  {
+    "account_id": "72",
+    "amount": "..8",
+    "medium": "online",
+    "timestamp": "2023-09-30 17:42:52",
+    "transaction_id": "120",
+    "type": "False"
+  },
+  {
+    "account_id": "72",
+    "amount": "1353.33",
+    "medium": "online",
+    "timestamp": "2023-09-30 17:42:52",
+    "transaction_id": "120",
+    "type": "False"
+  },
+  {
+    "account_id": "96",
+    "amount": "4959.33",
+    "medium": "transfer",
+    "timestamp": "2021-07-17 08:57:09",
+    "transaction_id": "121",
+    "type": "True"
+  },
+  {
+    "account_id": "100",
+    "amount": "1235.82",
+    "medium": "online",
+    "timestamp": "2023-06-11 08:27:48",
+    "transaction_id": "122",
+    "type": "False"
+  },
+  {
+    "account_id": "19",
+    "amount": "7766.08",
+    "medium": "card",
+    "timestamp": "2024-09-14 12:22:27",
+    "transaction_id": "123",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "9585.84",
+    "medium": "online",
+    "timestamp": "2022-11-18 05:42:03",
+    "transaction_id": "124",
+    "type": "False"
+  },
+  {
+    "account_id": "7",
+    "amount": "2982.75",
+    "medium": "transfer",
+    "timestamp": "2020-03-27 06:26:55",
+    "transaction_id": "125",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "8546.47",
+    "medium": "card",
+    "timestamp": "2020-05-06 21:37:19",
+    "transaction_id": "126",
+    "type": "True"
+  },
+  {
+    "account_id": "93",
+    "amount": "7573.07",
+    "medium": "online",
+    "timestamp": "2020-09-13 09:35:14",
+    "transaction_id": "127",
+    "type": "False"
+  },
+  {
+    "account_id": "58",
+    "amount": "9475.77",
+    "medium": "transfer",
+    "timestamp": "2021-09-04 11:55:26",
+    "transaction_id": "128",
+    "type": "True"
+  },
+  {
+    "account_id": "39",
+    "amount": "8911.64",
+    "medium": "online",
+    "timestamp": "2020-01-26 19:04:48",
+    "transaction_id": "129",
+    "type": "False"
+  },
+  {
+    "account_id": "96",
+    "amount": "6059.18",
+    "medium": "transfer",
+    "timestamp": "2023-05-31 07:57:13",
+    "transaction_id": "130",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "'",
+    "medium": "card",
+    "timestamp": "2021-04-17 18:03:28",
+    "transaction_id": "131",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "7065.59",
+    "medium": "card",
+    "timestamp": "2021-04-17 18:03:28",
+    "transaction_id": "131",
+    "type": "False"
+  },
+  {
+    "account_id": "32",
+    "amount": "9943.67",
+    "medium": "card",
+    "timestamp": "2021-09-03 06:32:09",
+    "transaction_id": "132",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "137.47",
+    "medium": "transfer",
+    "timestamp": "2024-02-26 01:57:12",
+    "transaction_id": "133",
+    "type": "False"
+  },
+  {
+    "account_id": "71",
+    "amount": "3132.49",
+    "medium": "transfer",
+    "timestamp": "2020-10-17 07:10:20",
+    "transaction_id": "134",
+    "type": "False"
+  },
+  {
+    "account_id": "34",
+    "amount": "3698.8",
+    "medium": "card",
+    "timestamp": "2022-05-03 17:18:29",
+    "transaction_id": "135",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "7608.57",
+    "medium": "online",
+    "timestamp": "2023-04-10 13:47:52",
+    "transaction_id": "136",
+    "type": "False"
+  },
+  {
+    "account_id": "33",
+    "amount": "2776.27",
+    "medium": "transfer",
+    "timestamp": "2023-07-31 04:20:50",
+    "transaction_id": "137",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "5920.9",
+    "medium": "transfer",
+    "timestamp": "2020-03-02 12:50:57",
+    "transaction_id": "138",
+    "type": "False"
+  },
+  {
+    "account_id": "53",
+    "amount": "623.69",
+    "medium": "transfer",
+    "timestamp": "2021-10-26 10:12:13",
+    "transaction_id": "139",
+    "type": "False"
+  },
+  {
+    "account_id": "42",
+    "amount": "9699.09",
+    "medium": "transfer",
+    "timestamp": "2020-10-19 03:40:25",
+    "transaction_id": "140",
+    "type": "True"
+  },
+  {
+    "account_id": "37",
+    "amount": "9442.37",
+    "medium": "card",
+    "timestamp": "2021-06-20 11:27:27",
+    "transaction_id": "141",
+    "type": "False"
+  },
+  {
+    "account_id": "81",
+    "amount": "2620.19",
+    "medium": "card",
+    "timestamp": "2023-03-31 14:44:31",
+    "transaction_id": "142",
+    "type": "False"
+  },
+  {
+    "account_id": "17",
+    "amount": "3443.15",
+    "medium": "online",
+    "timestamp": "2022-10-01 11:54:34",
+    "transaction_id": "143",
+    "type": "True"
+  },
+  {
+    "account_id": "83",
+    "amount": "2639.01",
+    "medium": "online",
+    "timestamp": "2024-06-11 12:53:03",
+    "transaction_id": "144",
+    "type": "True"
+  },
+  {
+    "account_id": "78",
+    "amount": "7648.48",
+    "medium": "transfer",
+    "timestamp": "2021-08-31 02:25:17",
+    "transaction_id": "145",
+    "type": "True"
+  },
+  {
+    "account_id": "53",
+    "amount": "2569.09",
+    "medium": "online",
+    "timestamp": "2024-07-02 15:50:14",
+    "transaction_id": "146",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "6345.63",
+    "medium": "online",
+    "timestamp": "2023-03-29 13:16:00",
+    "transaction_id": "147",
+    "type": "False"
+  },
+  {
+    "account_id": "55",
+    "amount": "1375.5",
+    "medium": "online",
+    "timestamp": "2022-08-11 03:36:52",
+    "transaction_id": "148",
+    "type": "True"
+  },
+  {
+    "account_id": "52",
+    "amount": "7457.92",
+    "medium": "transfer",
+    "timestamp": "2021-04-03 08:00:08",
+    "transaction_id": "149",
+    "type": "True"
+  },
+  {
+    "account_id": "26",
+    "amount": "4316.2",
+    "medium": "online",
+    "timestamp": "2024-01-19 21:00:02",
+    "transaction_id": "150",
+    "type": "True"
+  },
+  {
+    "account_id": "94",
+    "amount": "714.11",
+    "medium": "card",
+    "timestamp": "2023-12-14 19:49:01",
+    "transaction_id": "151",
+    "type": "False"
+  },
+  {
+    "account_id": "62",
+    "amount": "7841.62",
+    "medium": "online",
+    "timestamp": "2024-08-06 22:21:08",
+    "transaction_id": "152",
+    "type": "False"
+  },
+  {
+    "account_id": "1",
+    "amount": "7458.16",
+    "medium": "card",
+    "timestamp": "2023-01-01 07:03:56",
+    "transaction_id": "153",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "5286.96",
+    "medium": "transfer",
+    "timestamp": "2024-02-02 16:44:06",
+    "transaction_id": "154",
+    "type": "False"
+  },
+  {
+    "account_id": "26",
+    "amount": "7646.73",
+    "medium": "card",
+    "timestamp": "2024-03-10 14:52:48",
+    "transaction_id": "155",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "3754.59",
+    "medium": "online",
+    "timestamp": "2021-04-30 18:16:19",
+    "transaction_id": "156",
+    "type": "True"
+  },
+  {
+    "account_id": "54",
+    "amount": "3852.26",
+    "medium": "transfer",
+    "timestamp": "2022-02-27 09:24:49",
+    "transaction_id": "157",
+    "type": "False"
+  },
+  {
+    "account_id": "5",
+    "amount": "3742.46",
+    "medium": "online",
+    "timestamp": "2020-12-24 21:31:15",
+    "transaction_id": "158",
+    "type": "False"
+  },
+  {
+    "account_id": "24",
+    "amount": "2428.66",
+    "medium": "online",
+    "timestamp": "2020-06-04 21:33:46",
+    "transaction_id": "159",
+    "type": "False"
+  },
+  {
+    "account_id": "24",
+    "amount": "224.46",
+    "medium": "transfer",
+    "timestamp": "2021-02-01 20:19:22",
+    "transaction_id": "160",
+    "type": "False"
+  },
+  {
+    "account_id": "60",
+    "amount": "6324.33",
+    "medium": "transfer",
+    "timestamp": "2020-12-30 16:27:30",
+    "transaction_id": "161",
+    "type": "True"
+  },
+  {
+    "account_id": "72",
+    "amount": "3292.51",
+    "medium": "online",
+    "timestamp": "2024-05-01 07:05:36",
+    "transaction_id": "162",
+    "type": "True"
+  },
+  {
+    "account_id": "78",
+    "amount": "6211.09",
+    "medium": "transfer",
+    "timestamp": "2023-09-12 14:04:51",
+    "transaction_id": "163",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "9155.73",
+    "medium": "card",
+    "timestamp": "2023-08-01 18:00:38",
+    "transaction_id": "164",
+    "type": "False"
+  },
+  {
+    "account_id": "98",
+    "amount": "1952.79",
+    "medium": "transfer",
+    "timestamp": "2023-04-12 03:12:38",
+    "transaction_id": "165",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "1226.9",
+    "medium": "transfer",
+    "timestamp": "2023-05-31 14:45:09",
+    "transaction_id": "166",
+    "type": "True"
+  },
+  {
+    "account_id": "5",
+    "amount": "6568.85",
+    "medium": "other",
+    "timestamp": "2021-07-02 00:12:13",
+    "transaction_id": "167",
+    "type": "False"
+  },
+  {
+    "account_id": "67",
+    "amount": "8922.11",
+    "medium": "online",
+    "timestamp": "2020-12-11 07:23:50",
+    "transaction_id": "168",
+    "type": "True"
+  },
+  {
+    "account_id": "97",
+    "amount": "8531.85",
+    "medium": "card",
+    "timestamp": "2024-06-27 14:02:36",
+    "transaction_id": "169",
+    "type": "True"
+  },
+  {
+    "account_id": "47",
+    "amount": "1187.32",
+    "medium": "card",
+    "timestamp": "2020-03-17 07:48:13",
+    "transaction_id": "170",
+    "type": "False"
+  },
+  {
+    "account_id": "28",
+    "amount": "669.73",
+    "medium": "online",
+    "timestamp": "2021-11-25 07:57:47",
+    "transaction_id": "171",
+    "type": "False"
+  },
+  {
+    "account_id": "94",
+    "amount": "1950.05",
+    "medium": "card",
+    "timestamp": "2023-04-01 13:12:25",
+    "transaction_id": "172",
+    "type": "True"
+  },
+  {
+    "account_id": "32",
+    "amount": "780.81",
+    "medium": "card",
+    "timestamp": "2022-01-08 12:30:23",
+    "transaction_id": "173",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "581.53",
+    "medium": "transfer",
+    "timestamp": "2022-09-02 09:50:23",
+    "transaction_id": "174",
+    "type": "False"
+  },
+  {
+    "account_id": "18",
+    "amount": "4475.38",
+    "medium": "card",
+    "timestamp": "2024-06-23 04:10:15",
+    "transaction_id": "175",
+    "type": "False"
+  },
+  {
+    "account_id": "13",
+    "amount": "4926.25",
+    "medium": "transfer",
+    "timestamp": "2020-05-07 15:55:23",
+    "transaction_id": "176",
+    "type": "True"
+  },
+  {
+    "account_id": "55",
+    "amount": "8920.49",
+    "medium": "card",
+    "timestamp": "2022-10-31 13:55:38",
+    "transaction_id": "177",
+    "type": "True"
+  },
+  {
+    "account_id": "5",
+    "amount": "3083.41",
+    "medium": "transfer",
+    "timestamp": "2022-07-05 04:58:42",
+    "transaction_id": "178",
+    "type": "False"
+  },
+  {
+    "account_id": "20",
+    "amount": "7664.85",
+    "medium": "card",
+    "timestamp": "2022-06-02 12:55:28",
+    "transaction_id": "179",
+    "type": "False"
+  },
+  {
+    "account_id": "89",
+    "amount": "7747.09",
+    "medium": "online",
+    "timestamp": "2022-06-03 07:30:02",
+    "transaction_id": "180",
+    "type": "True"
+  },
+  {
+    "account_id": "67",
+    "amount": "3294.34",
+    "medium": "card",
+    "timestamp": "2020-04-02 11:31:56",
+    "transaction_id": "181",
+    "type": "True"
+  },
+  {
+    "account_id": "28",
+    "amount": "8842.7",
+    "medium": "transfer",
+    "timestamp": "2023-04-11 22:55:19",
+    "transaction_id": "182",
+    "type": "False"
+  },
+  {
+    "account_id": "15",
+    "amount": "9140.31",
+    "medium": "transfer",
+    "timestamp": "2023-10-12 12:40:29",
+    "transaction_id": "183",
+    "type": "False"
+  },
+  {
+    "account_id": "86",
+    "amount": "5756.01",
+    "medium": "transfer",
+    "timestamp": "2023-11-24 01:54:41",
+    "transaction_id": "184",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "7865.7",
+    "medium": "online",
+    "timestamp": "2023-05-02 00:40:26",
+    "transaction_id": "185",
+    "type": "False"
+  },
+  {
+    "account_id": "98",
+    "amount": "5962.07",
+    "medium": "card",
+    "timestamp": "2024-07-24 07:41:59",
+    "transaction_id": "186",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "5191.4",
+    "medium": "online",
+    "timestamp": "2024-01-26 12:45:42",
+    "transaction_id": "187",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "3595.17",
+    "medium": "transfer",
+    "timestamp": "2023-10-22 12:49:45",
+    "transaction_id": "188",
+    "type": "False"
+  },
+  {
+    "account_id": "96",
+    "amount": "7130.62",
+    "medium": "online",
+    "timestamp": "2022-07-11 16:02:32",
+    "transaction_id": "189",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "6227.23",
+    "medium": "card",
+    "timestamp": "2024-04-25 07:00:16",
+    "transaction_id": "190",
+    "type": "False"
+  },
+  {
+    "account_id": "60",
+    "amount": "9413.91",
+    "medium": "online",
+    "timestamp": "2023-06-14 23:25:49",
+    "transaction_id": "191",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "2159.35",
+    "medium": "online",
+    "timestamp": "2020-06-27 19:22:25",
+    "transaction_id": "192",
+    "type": "True"
+  },
+  {
+    "account_id": "16",
+    "amount": "747.39",
+    "medium": "card",
+    "timestamp": "2024-02-15 21:36:52",
+    "transaction_id": "193",
+    "type": "True"
+  },
+  {
+    "account_id": "68",
+    "amount": "9339.39",
+    "medium": "card",
+    "timestamp": "2023-10-30 10:50:35",
+    "transaction_id": "194",
+    "type": "True"
+  },
+  {
+    "account_id": "34",
+    "amount": "1249.39",
+    "medium": "card",
+    "timestamp": "2020-07-05 06:33:14",
+    "transaction_id": "195",
+    "type": "False"
+  },
+  {
+    "account_id": "48",
+    "amount": "4184.06",
+    "medium": "online",
+    "timestamp": "2024-08-05 02:06:43",
+    "transaction_id": "196",
+    "type": "True"
+  },
+  {
+    "account_id": "26",
+    "amount": "5795.17",
+    "medium": "card",
+    "timestamp": "2023-12-16 18:31:47",
+    "transaction_id": "197",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "..8",
+    "medium": "other",
+    "timestamp": "2022-10-23 21:09:14",
+    "transaction_id": "198",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "3122.15",
+    "medium": "other",
+    "timestamp": "2022-10-23 21:09:14",
+    "transaction_id": "198",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "481.62",
+    "medium": "transfer",
+    "timestamp": "2021-12-03 15:46:19",
+    "transaction_id": "199",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "2099.95",
+    "medium": "online",
+    "timestamp": "2024-02-17 06:54:31",
+    "transaction_id": "200",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "2372.46",
+    "medium": "transfer",
+    "timestamp": "2021-06-11 18:07:48",
+    "transaction_id": "201",
+    "type": "False"
+  },
+  {
+    "account_id": "52",
+    "amount": "7688.99",
+    "medium": "transfer",
+    "timestamp": "2021-11-04 11:47:58",
+    "transaction_id": "202",
+    "type": "False"
+  },
+  {
+    "account_id": "88",
+    "amount": "7494.23",
+    "medium": "online",
+    "timestamp": "2020-06-22 19:02:14",
+    "transaction_id": "203",
+    "type": "True"
+  },
+  {
+    "account_id": "88",
+    "amount": "7494.23",
+    "medium": "online",
+    "timestamp": "2020-06-22 19:02:14",
+    "transaction_id": "203",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "3430.33",
+    "medium": "card",
+    "timestamp": "2020-02-19 02:16:19",
+    "transaction_id": "204",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "5315.99",
+    "medium": "card",
+    "timestamp": "2021-02-14 09:36:14",
+    "transaction_id": "205",
+    "type": "False"
+  },
+  {
+    "account_id": "89",
+    "amount": "..8",
+    "medium": "card",
+    "timestamp": "2020-04-03 06:45:19",
+    "transaction_id": "206",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "1977.32",
+    "medium": "card",
+    "timestamp": "2020-04-03 06:45:19",
+    "transaction_id": "206",
+    "type": "True"
+  },
+  {
+    "account_id": "9",
+    "amount": "4686.33",
+    "medium": "transfer",
+    "timestamp": "2020-09-27 18:08:38",
+    "transaction_id": "207",
+    "type": "True"
+  },
+  {
+    "account_id": "79",
+    "amount": "2412.54",
+    "medium": "card",
+    "timestamp": "2023-09-25 19:52:10",
+    "transaction_id": "208",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "2412.54",
+    "medium": "card",
+    "timestamp": "2023-09-25 19:52:10",
+    "transaction_id": "208",
+    "type": "False"
+  },
+  {
+    "account_id": "92",
+    "amount": "8333.91",
+    "medium": "card",
+    "timestamp": "2023-11-14 06:58:56",
+    "transaction_id": "209",
+    "type": "False"
+  },
+  {
+    "account_id": "72",
+    "amount": "9418.05",
+    "medium": "online",
+    "timestamp": "2023-08-08 00:57:17",
+    "transaction_id": "210",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "3308.42",
+    "medium": "transfer",
+    "timestamp": "2022-02-23 21:38:26",
+    "transaction_id": "211",
+    "type": "True"
+  },
+  {
+    "account_id": "61",
+    "amount": "35.75",
+    "medium": "online",
+    "timestamp": "2024-03-29 16:12:20",
+    "transaction_id": "212",
+    "type": "True"
+  },
+  {
+    "account_id": "36",
+    "amount": "9400.17",
+    "medium": "transfer",
+    "timestamp": "2023-06-19 22:25:31",
+    "transaction_id": "213",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "9788.53",
+    "medium": "transfer",
+    "timestamp": "2022-08-09 07:44:12",
+    "transaction_id": "214",
+    "type": "True"
+  },
+  {
+    "account_id": "39",
+    "amount": "2324.25",
+    "medium": "transfer",
+    "timestamp": "2022-01-10 16:04:01",
+    "transaction_id": "215",
+    "type": "False"
+  },
+  {
+    "account_id": "5",
+    "amount": "6194.84",
+    "medium": "online",
+    "timestamp": "2022-09-06 16:40:02",
+    "transaction_id": "216",
+    "type": "False"
+  },
+  {
+    "account_id": "65",
+    "amount": "3039.36",
+    "medium": "transfer",
+    "timestamp": "2020-07-31 22:06:30",
+    "transaction_id": "217",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "6513.9",
+    "medium": "online",
+    "timestamp": "2020-11-11 20:22:08",
+    "transaction_id": "218",
+    "type": "False"
+  },
+  {
+    "account_id": "83",
+    "amount": "5890.9",
+    "medium": "online",
+    "timestamp": "2021-08-08 23:00:06",
+    "transaction_id": "219",
+    "type": "True"
+  },
+  {
+    "account_id": "82",
+    "amount": "2550.05",
+    "medium": "online",
+    "timestamp": "2022-02-22 07:28:07",
+    "transaction_id": "220",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "8722.98",
+    "medium": "card",
+    "timestamp": "2020-10-03 12:02:53",
+    "transaction_id": "221",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "1070.68",
+    "medium": "transfer",
+    "timestamp": "2024-08-07 14:41:15",
+    "transaction_id": "222",
+    "type": "False"
+  },
+  {
+    "account_id": "19",
+    "amount": "7592.89",
+    "medium": "online",
+    "timestamp": "2023-06-27 23:20:17",
+    "transaction_id": "223",
+    "type": "False"
+  },
+  {
+    "account_id": "60",
+    "amount": "9594.35",
+    "medium": "card",
+    "timestamp": "2023-02-25 19:13:31",
+    "transaction_id": "224",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "6211.8",
+    "medium": "card",
+    "timestamp": "2021-01-25 21:08:32",
+    "transaction_id": "225",
+    "type": "False"
+  },
+  {
+    "account_id": "48",
+    "amount": "3667.17",
+    "medium": "transfer",
+    "timestamp": "2020-01-02 01:48:18",
+    "transaction_id": "226",
+    "type": "True"
+  },
+  {
+    "account_id": "1",
+    "amount": "2371.75",
+    "medium": "card",
+    "timestamp": "2021-12-23 00:44:47",
+    "transaction_id": "227",
+    "type": "False"
+  },
+  {
+    "account_id": "34",
+    "amount": "35.15",
+    "medium": "card",
+    "timestamp": "2020-01-24 16:58:10",
+    "transaction_id": "228",
+    "type": "False"
+  },
+  {
+    "account_id": "71",
+    "amount": "5473.04",
+    "medium": "online",
+    "timestamp": "2020-04-26 07:35:35",
+    "transaction_id": "229",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "7536.14",
+    "medium": "transfer",
+    "timestamp": "2022-08-28 13:51:44",
+    "transaction_id": "230",
+    "type": "True"
+  },
+  {
+    "account_id": "18",
+    "amount": "7882.25",
+    "medium": "card",
+    "timestamp": "2022-11-15 14:18:58",
+    "transaction_id": "231",
+    "type": "False"
+  },
+  {
+    "account_id": "21",
+    "amount": "6466.72",
+    "medium": "card",
+    "timestamp": "2021-01-20 04:59:14",
+    "transaction_id": "232",
+    "type": "False"
+  },
+  {
+    "account_id": "16",
+    "amount": "3280.49",
+    "medium": "card",
+    "timestamp": "2023-06-13 16:52:03",
+    "transaction_id": "233",
+    "type": "False"
+  },
+  {
+    "account_id": "89",
+    "amount": "2854.17",
+    "medium": "transfer",
+    "timestamp": "2022-04-10 01:55:52",
+    "transaction_id": "234",
+    "type": "False"
+  },
+  {
+    "account_id": "73",
+    "amount": "9395.2",
+    "medium": "card",
+    "timestamp": "2022-06-23 14:42:39",
+    "transaction_id": "235",
+    "type": "True"
+  },
+  {
+    "account_id": "18",
+    "amount": "3890.19",
+    "medium": "online",
+    "timestamp": "2021-02-24 19:00:49",
+    "transaction_id": "236",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "3351.24",
+    "medium": "card",
+    "timestamp": "2022-03-23 08:23:14",
+    "transaction_id": "237",
+    "type": "False"
+  },
+  {
+    "account_id": "25",
+    "amount": "5186.0",
+    "medium": "online",
+    "timestamp": "2021-02-14 22:17:21",
+    "transaction_id": "238",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "6376.74",
+    "medium": "transfer",
+    "timestamp": "2024-06-11 19:58:33",
+    "transaction_id": "239",
+    "type": "True"
+  },
+  {
+    "account_id": "44",
+    "amount": "5703.03",
+    "medium": "card",
+    "timestamp": "2021-03-12 13:31:07",
+    "transaction_id": "240",
+    "type": "True"
+  },
+  {
+    "account_id": "15",
+    "amount": "2797.57",
+    "medium": "online",
+    "timestamp": "2022-05-05 15:07:57",
+    "transaction_id": "241",
+    "type": "False"
+  },
+  {
+    "account_id": "34",
+    "amount": "4338.24",
+    "medium": "transfer",
+    "timestamp": "2023-08-09 22:53:50",
+    "transaction_id": "242",
+    "type": "True"
+  },
+  {
+    "account_id": "71",
+    "amount": "2436.83",
+    "medium": "online",
+    "timestamp": "2021-02-01 10:27:04",
+    "transaction_id": "243",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "6305.78",
+    "medium": "online",
+    "timestamp": "2023-01-12 01:14:52",
+    "transaction_id": "244",
+    "type": "False"
+  },
+  {
+    "account_id": "82",
+    "amount": "932.38",
+    "medium": "card",
+    "timestamp": "2022-11-28 15:57:27",
+    "transaction_id": "245",
+    "type": "False"
+  },
+  {
+    "account_id": "90",
+    "amount": "3371.53",
+    "medium": "transfer",
+    "timestamp": "2023-03-31 19:40:27",
+    "transaction_id": "246",
+    "type": "False"
+  },
+  {
+    "account_id": "23",
+    "amount": "5437.82",
+    "medium": "online",
+    "timestamp": "2024-09-11 19:27:13",
+    "transaction_id": "247",
+    "type": "False"
+  },
+  {
+    "account_id": "42",
+    "amount": "7071.39",
+    "medium": "card",
+    "timestamp": "2022-08-21 11:33:21",
+    "transaction_id": "248",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "4202.4",
+    "medium": "card",
+    "timestamp": "2021-07-15 19:18:54",
+    "transaction_id": "249",
+    "type": "True"
+  },
+  {
+    "account_id": "68",
+    "amount": "787.85",
+    "medium": "card",
+    "timestamp": "2023-11-08 14:21:35",
+    "transaction_id": "250",
+    "type": "True"
+  },
+  {
+    "account_id": "25",
+    "amount": "6378.03",
+    "medium": "transfer",
+    "timestamp": "2024-07-10 14:20:45",
+    "transaction_id": "251",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "716.16",
+    "medium": "transfer",
+    "timestamp": "2023-02-07 21:15:48",
+    "transaction_id": "252",
+    "type": "False"
+  },
+  {
+    "account_id": "59",
+    "amount": "4868.29",
+    "medium": "online",
+    "timestamp": "2020-02-23 04:27:42",
+    "transaction_id": "253",
+    "type": "True"
+  },
+  {
+    "account_id": "12",
+    "amount": "8420.83",
+    "medium": "online",
+    "timestamp": "2022-01-31 12:51:49",
+    "transaction_id": "254",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "3867.85",
+    "medium": "card",
+    "timestamp": "2020-07-03 00:28:48",
+    "transaction_id": "255",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "5737.51",
+    "medium": "card",
+    "timestamp": "2020-08-18 10:59:24",
+    "transaction_id": "256",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "INVALID",
+    "medium": "transfer",
+    "timestamp": "2021-02-17 10:24:35",
+    "transaction_id": "257",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "7506.9",
+    "medium": "transfer",
+    "timestamp": "2021-02-17 10:24:35",
+    "transaction_id": "257",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "7494.66",
+    "medium": "card",
+    "timestamp": "2024-03-02 10:33:21",
+    "transaction_id": "258",
+    "type": "False"
+  },
+  {
+    "account_id": "92",
+    "amount": "5803.47",
+    "medium": "card",
+    "timestamp": "2020-06-30 04:19:19",
+    "transaction_id": "259",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "9376.97",
+    "medium": "card",
+    "timestamp": "2023-04-24 02:27:43",
+    "transaction_id": "260",
+    "type": "True"
+  },
+  {
+    "account_id": "28",
+    "amount": "7788.38",
+    "medium": "online",
+    "timestamp": "2022-10-13 10:03:54",
+    "transaction_id": "261",
+    "type": "False"
+  },
+  {
+    "account_id": "12",
+    "amount": "4581.25",
+    "medium": "card",
+    "timestamp": "2022-09-16 10:57:37",
+    "transaction_id": "262",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "5420.44",
+    "medium": "card",
+    "timestamp": "2022-06-16 11:53:20",
+    "transaction_id": "263",
+    "type": "True"
+  },
+  {
+    "account_id": "79",
+    "amount": "5420.44",
+    "medium": "card",
+    "timestamp": "2022-06-16 11:53:20",
+    "transaction_id": "263",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "6079.05",
+    "medium": "online",
+    "timestamp": "2021-09-18 07:28:07",
+    "transaction_id": "264",
+    "type": "False"
+  },
+  {
+    "account_id": "7",
+    "amount": "3568.73",
+    "medium": "online",
+    "timestamp": "2021-06-17 22:26:42",
+    "transaction_id": "265",
+    "type": "False"
+  },
+  {
+    "account_id": "42",
+    "amount": "1172.76",
+    "medium": "online",
+    "timestamp": "2020-12-04 07:18:58",
+    "transaction_id": "266",
+    "type": "False"
+  },
+  {
+    "account_id": "64",
+    "amount": "406.18",
+    "medium": "transfer",
+    "timestamp": "2023-11-30 04:50:58",
+    "transaction_id": "267",
+    "type": "True"
+  },
+  {
+    "account_id": "82",
+    "amount": "6618.06",
+    "medium": "card",
+    "timestamp": "2023-01-14 09:00:24",
+    "transaction_id": "268",
+    "type": "True"
+  },
+  {
+    "account_id": "82",
+    "amount": "6618.06",
+    "medium": "card",
+    "timestamp": "2023-01-14 09:00:24",
+    "transaction_id": "268",
+    "type": "True"
+  },
+  {
+    "account_id": "67",
+    "amount": "6137.41",
+    "medium": "card",
+    "timestamp": "2021-06-13 05:27:32",
+    "transaction_id": "269",
+    "type": "True"
+  },
+  {
+    "account_id": "19",
+    "amount": "3212.25",
+    "medium": "online",
+    "timestamp": "2020-06-14 19:10:23",
+    "transaction_id": "270",
+    "type": "True"
+  },
+  {
+    "account_id": "41",
+    "amount": "8154.91",
+    "medium": "transfer",
+    "timestamp": "2023-10-07 22:34:00",
+    "transaction_id": "271",
+    "type": "False"
+  },
+  {
+    "account_id": "21",
+    "amount": "182.19",
+    "medium": "transfer",
+    "timestamp": "2021-10-04 10:16:37",
+    "transaction_id": "272",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "1403.74",
+    "medium": "card",
+    "timestamp": "2023-09-19 19:30:38",
+    "transaction_id": "273",
+    "type": "True"
+  },
+  {
+    "account_id": "64",
+    "amount": "2144.15",
+    "medium": "transfer",
+    "timestamp": "2023-10-31 06:33:17",
+    "transaction_id": "274",
+    "type": "False"
+  },
+  {
+    "account_id": "65",
+    "amount": "2185.97",
+    "medium": "online",
+    "timestamp": "2022-01-13 06:09:10",
+    "transaction_id": "275",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "INVALID",
+    "medium": "transfer",
+    "timestamp": "2020-07-10 05:52:10",
+    "transaction_id": "276",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "4497.41",
+    "medium": "transfer",
+    "timestamp": "2020-07-10 05:52:10",
+    "transaction_id": "276",
+    "type": "True"
+  },
+  {
+    "account_id": "38",
+    "amount": "9441.66",
+    "medium": "online",
+    "timestamp": "2024-05-19 16:32:47",
+    "transaction_id": "277",
+    "type": "False"
+  },
+  {
+    "account_id": "11",
+    "amount": "6423.88",
+    "medium": "online",
+    "timestamp": "2022-03-16 15:16:21",
+    "transaction_id": "278",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "9106.62",
+    "medium": "online",
+    "timestamp": "2022-07-01 21:12:46",
+    "transaction_id": "279",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "1869.66",
+    "medium": "online",
+    "timestamp": "2021-03-23 18:37:50",
+    "transaction_id": "280",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "1869.66",
+    "medium": "online",
+    "timestamp": "2021-03-23 18:37:50",
+    "transaction_id": "280",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "6779.64",
+    "medium": "transfer",
+    "timestamp": "2023-08-17 11:23:47",
+    "transaction_id": "281",
+    "type": "True"
+  },
+  {
+    "account_id": "41",
+    "amount": "8288.52",
+    "medium": "online",
+    "timestamp": "2020-12-07 02:57:53",
+    "transaction_id": "282",
+    "type": "True"
+  },
+  {
+    "account_id": "58",
+    "amount": "4599.51",
+    "medium": "card",
+    "timestamp": "2024-08-09 01:36:48",
+    "transaction_id": "283",
+    "type": "False"
+  },
+  {
+    "account_id": "21",
+    "amount": "4665.55",
+    "medium": "online",
+    "timestamp": "2020-10-17 08:48:45",
+    "transaction_id": "284",
+    "type": "False"
+  },
+  {
+    "account_id": "21",
+    "amount": "4665.55",
+    "medium": "online",
+    "timestamp": "2020-10-17 08:48:45",
+    "transaction_id": "284",
+    "type": "False"
+  },
+  {
+    "account_id": "4",
+    "amount": "8114.63",
+    "medium": "card",
+    "timestamp": "2023-11-13 09:13:29",
+    "transaction_id": "285",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "2766.76",
+    "medium": "transfer",
+    "timestamp": "2024-08-13 20:04:17",
+    "transaction_id": "286",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "4843.76",
+    "medium": "online",
+    "timestamp": "2020-12-23 14:30:17",
+    "transaction_id": "287",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "8725.75",
+    "medium": "online",
+    "timestamp": "2021-01-02 12:39:21",
+    "transaction_id": "288",
+    "type": "False"
+  },
+  {
+    "account_id": "46",
+    "amount": "1050.7",
+    "medium": "card",
+    "timestamp": "2021-06-28 10:19:55",
+    "transaction_id": "289",
+    "type": "False"
+  },
+  {
+    "account_id": "13",
+    "amount": "3998.9",
+    "medium": "transfer",
+    "timestamp": "2020-04-24 03:36:05",
+    "transaction_id": "290",
+    "type": "False"
+  },
+  {
+    "account_id": "59",
+    "amount": "2330.31",
+    "medium": "card",
+    "timestamp": "2020-03-28 15:58:11",
+    "transaction_id": "291",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "7222.43",
+    "medium": "transfer",
+    "timestamp": "2024-01-07 21:37:36",
+    "transaction_id": "292",
+    "type": "True"
+  },
+  {
+    "account_id": "52",
+    "amount": "4031.17",
+    "medium": "online",
+    "timestamp": "2021-05-27 22:02:52",
+    "transaction_id": "293",
+    "type": "True"
+  },
+  {
+    "account_id": "17",
+    "amount": "3123.96",
+    "medium": "online",
+    "timestamp": "2020-12-11 00:21:25",
+    "transaction_id": "294",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "4750.82",
+    "medium": "transfer",
+    "timestamp": "2020-10-23 03:09:27",
+    "transaction_id": "295",
+    "type": "True"
+  },
+  {
+    "account_id": "25",
+    "amount": "6672.88",
+    "medium": "card",
+    "timestamp": "2020-08-29 12:48:39",
+    "transaction_id": "296",
+    "type": "True"
+  },
+  {
+    "account_id": "16",
+    "amount": "9562.88",
+    "medium": "online",
+    "timestamp": "2024-04-21 22:03:25",
+    "transaction_id": "297",
+    "type": "False"
+  },
+  {
+    "account_id": "98",
+    "amount": "4676.93",
+    "medium": "card",
+    "timestamp": "2023-01-13 02:17:49",
+    "transaction_id": "298",
+    "type": "False"
+  },
+  {
+    "account_id": "42",
+    "amount": "747.11",
+    "medium": "online",
+    "timestamp": "2023-07-06 02:24:21",
+    "transaction_id": "299",
+    "type": "True"
+  },
+  {
+    "account_id": "83",
+    "amount": "9381.71",
+    "medium": "transfer",
+    "timestamp": "2024-06-04 02:15:03",
+    "transaction_id": "300",
+    "type": "False"
+  },
+  {
+    "account_id": "77",
+    "amount": "4241.66",
+    "medium": "transfer",
+    "timestamp": "2023-04-10 09:48:13",
+    "transaction_id": "301",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "724.1",
+    "medium": "transfer",
+    "timestamp": "2024-08-25 09:41:11",
+    "transaction_id": "302",
+    "type": "True"
+  },
+  {
+    "account_id": "24",
+    "amount": "5571.14",
+    "medium": "transfer",
+    "timestamp": "2021-03-08 19:03:36",
+    "transaction_id": "303",
+    "type": "False"
+  },
+  {
+    "account_id": "5",
+    "amount": "4665.78",
+    "medium": "online",
+    "timestamp": "2020-10-24 18:05:30",
+    "transaction_id": "304",
+    "type": "True"
+  },
+  {
+    "account_id": "8",
+    "amount": "5256.21",
+    "medium": "transfer",
+    "timestamp": "2021-10-02 21:48:37",
+    "transaction_id": "305",
+    "type": "False"
+  },
+  {
+    "account_id": "43",
+    "amount": "3310.22",
+    "medium": "online",
+    "timestamp": "2021-05-25 08:14:31",
+    "transaction_id": "306",
+    "type": "False"
+  },
+  {
+    "account_id": "8",
+    "amount": "1337.47",
+    "medium": "card",
+    "timestamp": "2021-05-31 16:08:34",
+    "transaction_id": "307",
+    "type": "True"
+  },
+  {
+    "account_id": "3",
+    "amount": "8896.14",
+    "medium": "online",
+    "timestamp": "2024-07-01 22:14:55",
+    "transaction_id": "308",
+    "type": "False"
+  },
+  {
+    "account_id": "92",
+    "amount": "1762.9",
+    "medium": "transfer",
+    "timestamp": "2021-10-21 02:53:10",
+    "transaction_id": "309",
+    "type": "False"
+  },
+  {
+    "account_id": "78",
+    "amount": "9744.41",
+    "medium": "transfer",
+    "timestamp": "2023-12-06 11:47:09",
+    "transaction_id": "310",
+    "type": "True"
+  },
+  {
+    "account_id": "8",
+    "amount": "5631.34",
+    "medium": "card",
+    "timestamp": "2021-07-16 20:09:43",
+    "transaction_id": "311",
+    "type": "True"
+  },
+  {
+    "account_id": "41",
+    "amount": "3520.53",
+    "medium": "online",
+    "timestamp": "2022-05-08 01:37:06",
+    "transaction_id": "312",
+    "type": "False"
+  },
+  {
+    "account_id": "40",
+    "amount": "6461.11",
+    "medium": "card",
+    "timestamp": "2020-10-26 05:22:15",
+    "transaction_id": "313",
+    "type": "True"
+  },
+  {
+    "account_id": "94",
+    "amount": "3385.26",
+    "medium": "card",
+    "timestamp": "2023-07-13 19:36:01",
+    "transaction_id": "314",
+    "type": "True"
+  },
+  {
+    "account_id": "98",
+    "amount": "4727.05",
+    "medium": "online",
+    "timestamp": "2022-05-16 17:21:53",
+    "transaction_id": "315",
+    "type": "False"
+  },
+  {
+    "account_id": "65",
+    "amount": "5762.98",
+    "medium": "online",
+    "timestamp": "2021-04-03 17:48:16",
+    "transaction_id": "316",
+    "type": "False"
+  },
+  {
+    "account_id": "13",
+    "amount": "5349.93",
+    "medium": "transfer",
+    "timestamp": "2023-11-28 13:36:25",
+    "transaction_id": "317",
+    "type": "True"
+  },
+  {
+    "account_id": "45",
+    "amount": "1433.55",
+    "medium": "card",
+    "timestamp": "2023-08-21 00:48:51",
+    "transaction_id": "318",
+    "type": "True"
+  },
+  {
+    "account_id": "88",
+    "amount": "1943.45",
+    "medium": "online",
+    "timestamp": "2022-06-28 23:28:44",
+    "transaction_id": "319",
+    "type": "False"
+  },
+  {
+    "account_id": "67",
+    "amount": "2398.19",
+    "medium": "online",
+    "timestamp": "2023-03-24 14:01:57",
+    "transaction_id": "320",
+    "type": "False"
+  },
+  {
+    "account_id": "39",
+    "amount": "7792.08",
+    "medium": "card",
+    "timestamp": "2020-12-31 22:16:26",
+    "transaction_id": "321",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "1009.94",
+    "medium": "transfer",
+    "timestamp": "2022-01-14 23:37:31",
+    "transaction_id": "322",
+    "type": "True"
+  },
+  {
+    "account_id": "1",
+    "amount": "2093.45",
+    "medium": "online",
+    "timestamp": "2020-08-08 15:44:51",
+    "transaction_id": "323",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "8955.37",
+    "medium": "online",
+    "timestamp": "2022-02-21 18:11:50",
+    "transaction_id": "324",
+    "type": "False"
+  },
+  {
+    "account_id": "25",
+    "amount": "1957.21",
+    "medium": "other",
+    "timestamp": "2024-02-06 06:42:06",
+    "transaction_id": "325",
+    "type": "True"
+  },
+  {
+    "account_id": "29",
+    "amount": "8835.13",
+    "medium": "online",
+    "timestamp": "2022-01-30 22:06:56",
+    "transaction_id": "326",
+    "type": "True"
+  },
+  {
+    "account_id": "39",
+    "amount": "9269.45",
+    "medium": "online",
+    "timestamp": "2024-09-18 23:22:12",
+    "transaction_id": "327",
+    "type": "False"
+  },
+  {
+    "account_id": "60",
+    "amount": "2491.56",
+    "medium": "card",
+    "timestamp": "2021-11-16 14:56:22",
+    "transaction_id": "328",
+    "type": "True"
+  },
+  {
+    "account_id": "41",
+    "amount": "9834.23",
+    "medium": "online",
+    "timestamp": "2021-07-06 11:39:42",
+    "transaction_id": "329",
+    "type": "True"
+  },
+  {
+    "account_id": "79",
+    "amount": "4582.21",
+    "medium": "online",
+    "timestamp": "2020-10-09 00:29:19",
+    "transaction_id": "330",
+    "type": "True"
+  },
+  {
+    "account_id": "13",
+    "amount": "6518.91",
+    "medium": "card",
+    "timestamp": "2023-02-10 11:42:48",
+    "transaction_id": "331",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "4332.11",
+    "medium": "transfer",
+    "timestamp": "2021-06-25 09:27:23",
+    "transaction_id": "332",
+    "type": "False"
+  },
+  {
+    "account_id": "55",
+    "amount": "5660.57",
+    "medium": "online",
+    "timestamp": "2023-04-04 14:07:11",
+    "transaction_id": "333",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "6272.81",
+    "medium": "card",
+    "timestamp": "2022-07-04 03:22:47",
+    "transaction_id": "334",
+    "type": "False"
+  },
+  {
+    "account_id": "65",
+    "amount": "3826.03",
+    "medium": "card",
+    "timestamp": "2022-05-11 00:48:44",
+    "transaction_id": "335",
+    "type": "False"
+  },
+  {
+    "account_id": "65",
+    "amount": "3826.03",
+    "medium": "card",
+    "timestamp": "2022-05-11 00:48:44",
+    "transaction_id": "335",
+    "type": "False"
+  },
+  {
+    "account_id": "74",
+    "amount": "6103.51",
+    "medium": "transfer",
+    "timestamp": "2022-03-07 02:23:14",
+    "transaction_id": "336",
+    "type": "False"
+  },
+  {
+    "account_id": "60",
+    "amount": "3415.12",
+    "medium": "online",
+    "timestamp": "2021-12-18 18:17:03",
+    "transaction_id": "337",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "2385.53",
+    "medium": "card",
+    "timestamp": "2022-10-31 08:53:09",
+    "transaction_id": "338",
+    "type": "False"
+  },
+  {
+    "account_id": "55",
+    "amount": "4813.51",
+    "medium": "online",
+    "timestamp": "2021-11-02 04:10:45",
+    "transaction_id": "339",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "7348.07",
+    "medium": "transfer",
+    "timestamp": "2024-07-03 01:01:05",
+    "transaction_id": "340",
+    "type": "True"
+  },
+  {
+    "account_id": "90",
+    "amount": "8108.94",
+    "medium": "card",
+    "timestamp": "2021-01-29 09:18:54",
+    "transaction_id": "341",
+    "type": "False"
+  },
+  {
+    "account_id": "96",
+    "amount": "9177.03",
+    "medium": "transfer",
+    "timestamp": "2021-12-24 05:09:00",
+    "transaction_id": "342",
+    "type": "True"
+  },
+  {
+    "account_id": "39",
+    "amount": "3026.99",
+    "medium": "transfer",
+    "timestamp": "2023-08-08 23:18:00",
+    "transaction_id": "343",
+    "type": "False"
+  },
+  {
+    "account_id": "33",
+    "amount": "7769.29",
+    "medium": "card",
+    "timestamp": "2021-12-22 12:17:00",
+    "transaction_id": "344",
+    "type": "False"
+  },
+  {
+    "account_id": "11",
+    "amount": "3123.73",
+    "medium": "online",
+    "timestamp": "2021-07-12 07:22:49",
+    "transaction_id": "345",
+    "type": "False"
+  },
+  {
+    "account_id": "38",
+    "amount": "2232.43",
+    "medium": "transfer",
+    "timestamp": "2023-12-26 14:14:55",
+    "transaction_id": "346",
+    "type": "True"
+  },
+  {
+    "account_id": "28",
+    "amount": "1969.37",
+    "medium": "card",
+    "timestamp": "2024-02-07 18:57:27",
+    "transaction_id": "347",
+    "type": "True"
+  },
+  {
+    "account_id": "58",
+    "amount": "5811.29",
+    "medium": "transfer",
+    "timestamp": "2023-11-16 03:18:33",
+    "transaction_id": "348",
+    "type": "False"
+  },
+  {
+    "account_id": "69",
+    "amount": "2313.11",
+    "medium": "card",
+    "timestamp": "2021-04-21 07:20:22",
+    "transaction_id": "349",
+    "type": "False"
+  },
+  {
+    "account_id": "30",
+    "amount": "7118.73",
+    "medium": "card",
+    "timestamp": "2022-12-15 10:18:06",
+    "transaction_id": "350",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "6482.31",
+    "medium": "card",
+    "timestamp": "2020-04-22 15:34:51",
+    "transaction_id": "351",
+    "type": "False"
+  },
+  {
+    "account_id": "55",
+    "amount": "7649.92",
+    "medium": "transfer",
+    "timestamp": "2024-07-03 17:45:20",
+    "transaction_id": "352",
+    "type": "False"
+  },
+  {
+    "account_id": "89",
+    "amount": "6234.04",
+    "medium": "transfer",
+    "timestamp": "2022-03-02 23:28:21",
+    "transaction_id": "353",
+    "type": "True"
+  },
+  {
+    "account_id": "53",
+    "amount": "8261.29",
+    "medium": "online",
+    "timestamp": "2024-08-09 16:05:10",
+    "transaction_id": "354",
+    "type": "True"
+  },
+  {
+    "account_id": "63",
+    "amount": "3641.21",
+    "medium": "transfer",
+    "timestamp": "2024-05-25 01:19:15",
+    "transaction_id": "355",
+    "type": "False"
+  },
+  {
+    "account_id": "59",
+    "amount": "2542.15",
+    "medium": "online",
+    "timestamp": "2024-09-20 08:09:13",
+    "transaction_id": "356",
+    "type": "False"
+  },
+  {
+    "account_id": "60",
+    "amount": "1412.9",
+    "medium": "card",
+    "timestamp": "2020-07-06 21:06:27",
+    "transaction_id": "357",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "4320.58",
+    "medium": "card",
+    "timestamp": "2021-03-29 03:34:22",
+    "transaction_id": "358",
+    "type": "True"
+  },
+  {
+    "account_id": "82",
+    "amount": "2658.05",
+    "medium": "transfer",
+    "timestamp": "2024-02-16 18:06:57",
+    "transaction_id": "359",
+    "type": "False"
+  },
+  {
+    "account_id": "83",
+    "amount": "5768.96",
+    "medium": "online",
+    "timestamp": "2023-11-03 02:14:17",
+    "transaction_id": "360",
+    "type": "True"
+  },
+  {
+    "account_id": "34",
+    "amount": "3288.75",
+    "medium": "transfer",
+    "timestamp": "2024-06-13 17:35:12",
+    "transaction_id": "361",
+    "type": "True"
+  },
+  {
+    "account_id": "20",
+    "amount": "7823.89",
+    "medium": "online",
+    "timestamp": "2020-01-17 18:45:48",
+    "transaction_id": "362",
+    "type": "False"
+  },
+  {
+    "account_id": "9",
+    "amount": "3615.65",
+    "medium": "online",
+    "timestamp": "2022-03-20 23:44:45",
+    "transaction_id": "363",
+    "type": "True"
+  },
+  {
+    "account_id": "73",
+    "amount": "9580.43",
+    "medium": "transfer",
+    "timestamp": "2020-06-22 00:44:24",
+    "transaction_id": "364",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "8448.87",
+    "medium": "card",
+    "timestamp": "2020-12-10 03:43:50",
+    "transaction_id": "365",
+    "type": "False"
+  },
+  {
+    "account_id": "71",
+    "amount": "4447.27",
+    "medium": "online",
+    "timestamp": "2021-12-28 08:12:31",
+    "transaction_id": "366",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "796.87",
+    "medium": "online",
+    "timestamp": "2023-09-08 06:51:43",
+    "transaction_id": "367",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "587.38",
+    "medium": "transfer",
+    "timestamp": "2022-06-17 15:54:25",
+    "transaction_id": "368",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "4171.21",
+    "medium": "card",
+    "timestamp": "2021-09-01 06:12:18",
+    "transaction_id": "369",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "4171.21",
+    "medium": "card",
+    "timestamp": "2021-09-01 06:12:18",
+    "transaction_id": "369",
+    "type": "True"
+  },
+  {
+    "account_id": "2",
+    "amount": "2975.64",
+    "medium": "card",
+    "timestamp": "2022-08-11 21:24:02",
+    "transaction_id": "370",
+    "type": "False"
+  },
+  {
+    "account_id": "95",
+    "amount": "6899.73",
+    "medium": "transfer",
+    "timestamp": "2022-12-25 22:38:40",
+    "transaction_id": "371",
+    "type": "True"
+  },
+  {
+    "account_id": "41",
+    "amount": "610.91",
+    "medium": "transfer",
+    "timestamp": "2024-02-09 21:01:39",
+    "transaction_id": "372",
+    "type": "True"
+  },
+  {
+    "account_id": "88",
+    "amount": "934.84",
+    "medium": "online",
+    "timestamp": "2024-02-15 09:47:40",
+    "transaction_id": "373",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "3013.4",
+    "medium": "card",
+    "timestamp": "2020-06-08 09:15:18",
+    "transaction_id": "374",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "1146.8",
+    "medium": "online",
+    "timestamp": "2022-11-11 04:42:05",
+    "transaction_id": "375",
+    "type": "True"
+  },
+  {
+    "account_id": "53",
+    "amount": "6509.03",
+    "medium": "card",
+    "timestamp": "2021-09-05 03:27:29",
+    "transaction_id": "376",
+    "type": "False"
+  },
+  {
+    "account_id": "30",
+    "amount": "623.01",
+    "medium": "online",
+    "timestamp": "2023-01-18 10:48:47",
+    "transaction_id": "377",
+    "type": "True"
+  },
+  {
+    "account_id": "100",
+    "amount": "5209.3",
+    "medium": "transfer",
+    "timestamp": "2023-04-30 09:56:53",
+    "transaction_id": "378",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "2026.18",
+    "medium": "transfer",
+    "timestamp": "2023-03-26 16:13:17",
+    "transaction_id": "379",
+    "type": "False"
+  },
+  {
+    "account_id": "53",
+    "amount": "787.69",
+    "medium": "card",
+    "timestamp": "2020-12-20 09:51:50",
+    "transaction_id": "380",
+    "type": "False"
+  },
+  {
+    "account_id": "16",
+    "amount": "5063.52",
+    "medium": "online",
+    "timestamp": "2024-01-21 21:27:19",
+    "transaction_id": "381",
+    "type": "False"
+  },
+  {
+    "account_id": "34",
+    "amount": "9354.87",
+    "medium": "card",
+    "timestamp": "2022-08-11 09:20:40",
+    "transaction_id": "382",
+    "type": "True"
+  },
+  {
+    "account_id": "4",
+    "amount": "9307.0",
+    "medium": "card",
+    "timestamp": "2021-07-07 16:59:24",
+    "transaction_id": "383",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "3722.84",
+    "medium": "card",
+    "timestamp": "2024-09-23 10:13:05",
+    "transaction_id": "384",
+    "type": "True"
+  },
+  {
+    "account_id": "26",
+    "amount": "9980.13",
+    "medium": "card",
+    "timestamp": "2021-11-05 17:22:07",
+    "transaction_id": "385",
+    "type": "False"
+  },
+  {
+    "account_id": "1",
+    "amount": "4176.38",
+    "medium": "card",
+    "timestamp": "2020-06-08 18:55:03",
+    "transaction_id": "386",
+    "type": "True"
+  },
+  {
+    "account_id": "8",
+    "amount": "5391.83",
+    "medium": "card",
+    "timestamp": "2020-08-18 13:15:15",
+    "transaction_id": "387",
+    "type": "False"
+  },
+  {
+    "account_id": "69",
+    "amount": "1566.29",
+    "medium": "online",
+    "timestamp": "2024-03-14 19:17:20",
+    "transaction_id": "388",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "1566.29",
+    "medium": "online",
+    "timestamp": "2024-03-14 19:17:20",
+    "transaction_id": "388",
+    "type": "True"
+  },
+  {
+    "account_id": "16",
+    "amount": "332.59",
+    "medium": "online",
+    "timestamp": "2024-03-04 14:53:13",
+    "transaction_id": "389",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "4856.22",
+    "medium": "card",
+    "timestamp": "2022-01-18 06:01:11",
+    "transaction_id": "390",
+    "type": "True"
+  },
+  {
+    "account_id": "17",
+    "amount": "8023.22",
+    "medium": "card",
+    "timestamp": "2020-05-17 14:18:50",
+    "transaction_id": "391",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "764.38",
+    "medium": "online",
+    "timestamp": "2024-02-24 16:06:04",
+    "transaction_id": "392",
+    "type": "False"
+  },
+  {
+    "account_id": "72",
+    "amount": "7039.06",
+    "medium": "online",
+    "timestamp": "2022-02-28 03:41:06",
+    "transaction_id": "393",
+    "type": "True"
+  },
+  {
+    "account_id": "38",
+    "amount": "1306.81",
+    "medium": "online",
+    "timestamp": "2022-02-09 00:47:42",
+    "transaction_id": "394",
+    "type": "True"
+  },
+  {
+    "account_id": "100",
+    "amount": "3161.07",
+    "medium": "transfer",
+    "timestamp": "2021-06-12 04:55:43",
+    "transaction_id": "395",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "267.05",
+    "medium": "other",
+    "timestamp": "2021-03-19 20:58:34",
+    "transaction_id": "396",
+    "type": "True"
+  },
+  {
+    "account_id": "45",
+    "amount": "6360.85",
+    "medium": "card",
+    "timestamp": "2022-01-13 21:56:01",
+    "transaction_id": "397",
+    "type": "False"
+  },
+  {
+    "account_id": "26",
+    "amount": "1552.85",
+    "medium": "card",
+    "timestamp": "2024-03-15 22:28:39",
+    "transaction_id": "398",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "2906.83",
+    "medium": "online",
+    "timestamp": "2021-05-14 19:37:41",
+    "transaction_id": "399",
+    "type": "True"
+  },
+  {
+    "account_id": "94",
+    "amount": "5705.57",
+    "medium": "card",
+    "timestamp": "2023-03-26 16:23:06",
+    "transaction_id": "400",
+    "type": "True"
+  },
+  {
+    "account_id": "3",
+    "amount": "768.01",
+    "medium": "online",
+    "timestamp": "2020-07-01 10:30:47",
+    "transaction_id": "401",
+    "type": "True"
+  },
+  {
+    "account_id": "59",
+    "amount": "3600.41",
+    "medium": "transfer",
+    "timestamp": "2022-08-12 10:03:14",
+    "transaction_id": "402",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "7461.25",
+    "medium": "online",
+    "timestamp": "2021-04-01 13:12:48",
+    "transaction_id": "403",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "5480.85",
+    "medium": "transfer",
+    "timestamp": "2020-09-09 17:01:42",
+    "transaction_id": "404",
+    "type": "True"
+  },
+  {
+    "account_id": "93",
+    "amount": "6069.27",
+    "medium": "online",
+    "timestamp": "2024-10-09 05:24:23",
+    "transaction_id": "405",
+    "type": "False"
+  },
+  {
+    "account_id": "15",
+    "amount": "3822.56",
+    "medium": "card",
+    "timestamp": "2024-08-18 11:57:18",
+    "transaction_id": "406",
+    "type": "False"
+  },
+  {
+    "account_id": "53",
+    "amount": "9392.48",
+    "medium": "online",
+    "timestamp": "2022-06-24 02:47:56",
+    "transaction_id": "407",
+    "type": "True"
+  },
+  {
+    "account_id": "95",
+    "amount": "7955.51",
+    "medium": "online",
+    "timestamp": "2024-07-02 11:10:21",
+    "transaction_id": "408",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "8704.01",
+    "medium": "online",
+    "timestamp": "2021-08-29 03:26:24",
+    "transaction_id": "409",
+    "type": "False"
+  },
+  {
+    "account_id": "40",
+    "amount": "2837.62",
+    "medium": "online",
+    "timestamp": "2020-02-04 20:44:10",
+    "transaction_id": "410",
+    "type": "False"
+  },
+  {
+    "account_id": "1",
+    "amount": "7131.2",
+    "medium": "card",
+    "timestamp": "2020-07-07 12:01:55",
+    "transaction_id": "411",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "8023.18",
+    "medium": "online",
+    "timestamp": "2024-06-01 14:01:25",
+    "transaction_id": "412",
+    "type": "True"
+  },
+  {
+    "account_id": "13",
+    "amount": "3994.2",
+    "medium": "transfer",
+    "timestamp": "2021-05-27 11:03:48",
+    "transaction_id": "413",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "5619.76",
+    "medium": "online",
+    "timestamp": "2023-10-06 07:59:22",
+    "transaction_id": "414",
+    "type": "True"
+  },
+  {
+    "account_id": "7",
+    "amount": "710.65",
+    "medium": "card",
+    "timestamp": "2020-11-19 06:15:57",
+    "transaction_id": "415",
+    "type": "False"
+  },
+  {
+    "account_id": "74",
+    "amount": "199.74",
+    "medium": "transfer",
+    "timestamp": "2023-12-28 21:34:07",
+    "transaction_id": "416",
+    "type": "True"
+  },
+  {
+    "account_id": "65",
+    "amount": "2351.63",
+    "medium": "transfer",
+    "timestamp": "2021-04-10 05:00:30",
+    "transaction_id": "417",
+    "type": "True"
+  },
+  {
+    "account_id": "92",
+    "amount": "9623.15",
+    "medium": "online",
+    "timestamp": "2024-05-09 03:31:15",
+    "transaction_id": "418",
+    "type": "True"
+  },
+  {
+    "account_id": "30",
+    "amount": "8456.84",
+    "medium": "online",
+    "timestamp": "2024-06-21 02:19:06",
+    "transaction_id": "419",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "9372.64",
+    "medium": "online",
+    "timestamp": "2022-10-23 12:48:44",
+    "transaction_id": "420",
+    "type": "True"
+  },
+  {
+    "account_id": "100",
+    "amount": "1461.34",
+    "medium": "card",
+    "timestamp": "2023-01-08 05:45:59",
+    "transaction_id": "421",
+    "type": "True"
+  },
+  {
+    "account_id": "62",
+    "amount": "8148.86",
+    "medium": "transfer",
+    "timestamp": "2023-03-11 05:20:21",
+    "transaction_id": "422",
+    "type": "False"
+  },
+  {
+    "account_id": "34",
+    "amount": "4651.61",
+    "medium": "online",
+    "timestamp": "2020-11-24 15:44:20",
+    "transaction_id": "423",
+    "type": "True"
+  },
+  {
+    "account_id": "20",
+    "amount": "2475.53",
+    "medium": "online",
+    "timestamp": "2022-11-27 03:05:59",
+    "transaction_id": "424",
+    "type": "True"
+  },
+  {
+    "account_id": "44",
+    "amount": "3766.72",
+    "medium": "transfer",
+    "timestamp": "2021-08-20 04:22:36",
+    "transaction_id": "425",
+    "type": "False"
+  },
+  {
+    "account_id": "82",
+    "amount": "69.02",
+    "medium": "online",
+    "timestamp": "2022-07-10 02:29:00",
+    "transaction_id": "426",
+    "type": "True"
+  },
+  {
+    "account_id": "82",
+    "amount": "69.02",
+    "medium": "online",
+    "timestamp": "2022-07-10 02:29:00",
+    "transaction_id": "426",
+    "type": "True"
+  },
+  {
+    "account_id": "90",
+    "amount": "7517.15",
+    "medium": "transfer",
+    "timestamp": "2021-09-18 15:34:41",
+    "transaction_id": "427",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": ") --",
+    "medium": "transfer",
+    "timestamp": "2024-07-19 23:28:49",
+    "transaction_id": "428",
+    "type": "True"
+  },
+  {
+    "account_id": "79",
+    "amount": "4386.48",
+    "medium": "transfer",
+    "timestamp": "2024-07-19 23:28:49",
+    "transaction_id": "428",
+    "type": "True"
+  },
+  {
+    "account_id": "74",
+    "amount": "5915.88",
+    "medium": "transfer",
+    "timestamp": "2022-09-14 02:23:48",
+    "transaction_id": "429",
+    "type": "False"
+  },
+  {
+    "account_id": "50",
+    "amount": "8462.66",
+    "medium": "card",
+    "timestamp": "2020-11-14 19:52:51",
+    "transaction_id": "430",
+    "type": "False"
+  },
+  {
+    "account_id": "62",
+    "amount": "7247.62",
+    "medium": "transfer",
+    "timestamp": "2024-05-31 14:02:37",
+    "transaction_id": "431",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "3037.14",
+    "medium": "online",
+    "timestamp": "2023-01-29 19:34:40",
+    "transaction_id": "432",
+    "type": "True"
+  },
+  {
+    "account_id": "3",
+    "amount": "2593.12",
+    "medium": "card",
+    "timestamp": "2023-04-07 10:24:15",
+    "transaction_id": "433",
+    "type": "False"
+  },
+  {
+    "account_id": "3",
+    "amount": "2593.12",
+    "medium": "card",
+    "timestamp": "2023-04-07 10:24:15",
+    "transaction_id": "433",
+    "type": "False"
+  },
+  {
+    "account_id": "83",
+    "amount": "4700.34",
+    "medium": "transfer",
+    "timestamp": "2020-05-14 21:49:52",
+    "transaction_id": "434",
+    "type": "False"
+  },
+  {
+    "account_id": "86",
+    "amount": "752.74",
+    "medium": "online",
+    "timestamp": "2024-02-14 21:50:47",
+    "transaction_id": "435",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "66.9",
+    "medium": "card",
+    "timestamp": "2022-02-02 20:47:06",
+    "transaction_id": "436",
+    "type": "True"
+  },
+  {
+    "account_id": "55",
+    "amount": "187.31",
+    "medium": "transfer",
+    "timestamp": "2020-06-16 04:55:51",
+    "transaction_id": "437",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "7443.76",
+    "medium": "card",
+    "timestamp": "2021-11-08 23:43:10",
+    "transaction_id": "438",
+    "type": "False"
+  },
+  {
+    "account_id": "15",
+    "amount": "6451.01",
+    "medium": "online",
+    "timestamp": "2024-04-18 13:48:38",
+    "transaction_id": "439",
+    "type": "True"
+  },
+  {
+    "account_id": "97",
+    "amount": "7996.7",
+    "medium": "transfer",
+    "timestamp": "2020-04-24 05:13:54",
+    "transaction_id": "440",
+    "type": "True"
+  },
+  {
+    "account_id": "65",
+    "amount": "9502.5",
+    "medium": "transfer",
+    "timestamp": "2024-02-15 08:18:08",
+    "transaction_id": "441",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "9524.86",
+    "medium": "card",
+    "timestamp": "2022-05-25 11:27:53",
+    "transaction_id": "442",
+    "type": "False"
+  },
+  {
+    "account_id": "37",
+    "amount": "4812.48",
+    "medium": "online",
+    "timestamp": "2020-01-12 12:29:33",
+    "transaction_id": "443",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "4224.19",
+    "medium": "card",
+    "timestamp": "2024-07-14 12:22:33",
+    "transaction_id": "444",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "7720.83",
+    "medium": "transfer",
+    "timestamp": "2024-06-10 00:46:48",
+    "transaction_id": "445",
+    "type": "True"
+  },
+  {
+    "account_id": "26",
+    "amount": "6918.01",
+    "medium": "online",
+    "timestamp": "2023-11-05 18:38:41",
+    "transaction_id": "446",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "8904.4",
+    "medium": "transfer",
+    "timestamp": "2022-11-10 21:02:33",
+    "transaction_id": "447",
+    "type": "False"
+  },
+  {
+    "account_id": "95",
+    "amount": "7201.62",
+    "medium": "card",
+    "timestamp": "2022-06-13 09:50:12",
+    "transaction_id": "448",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "7506.21",
+    "medium": "online",
+    "timestamp": "2022-06-30 23:25:35",
+    "transaction_id": "449",
+    "type": "False"
+  },
+  {
+    "account_id": "58",
+    "amount": "6634.1",
+    "medium": "card",
+    "timestamp": "2022-01-22 12:46:27",
+    "transaction_id": "450",
+    "type": "False"
+  },
+  {
+    "account_id": "82",
+    "amount": "2069.67",
+    "medium": "transfer",
+    "timestamp": "2024-01-02 04:26:28",
+    "transaction_id": "451",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "8296.2",
+    "medium": "card",
+    "timestamp": "2020-01-24 01:15:23",
+    "transaction_id": "452",
+    "type": "False"
+  },
+  {
+    "account_id": "30",
+    "amount": "1402.11",
+    "medium": "card",
+    "timestamp": "2022-08-30 10:06:00",
+    "transaction_id": "453",
+    "type": "True"
+  },
+  {
+    "account_id": "59",
+    "amount": "9500.94",
+    "medium": "online",
+    "timestamp": "2021-05-10 22:08:27",
+    "transaction_id": "454",
+    "type": "False"
+  },
+  {
+    "account_id": "21",
+    "amount": "7020.19",
+    "medium": "card",
+    "timestamp": "2020-11-25 11:31:33",
+    "transaction_id": "455",
+    "type": "True"
+  },
+  {
+    "account_id": "79",
+    "amount": "4088.1",
+    "medium": "online",
+    "timestamp": "2021-01-24 16:14:33",
+    "transaction_id": "456",
+    "type": "True"
+  },
+  {
+    "account_id": "7",
+    "amount": "7697.85",
+    "medium": "card",
+    "timestamp": "2024-06-22 02:28:31",
+    "transaction_id": "457",
+    "type": "True"
+  },
+  {
+    "account_id": "64",
+    "amount": "4447.17",
+    "medium": "online",
+    "timestamp": "2022-09-29 20:06:12",
+    "transaction_id": "458",
+    "type": "False"
+  },
+  {
+    "account_id": "86",
+    "amount": "1720.95",
+    "medium": "card",
+    "timestamp": "2021-05-03 07:34:59",
+    "transaction_id": "459",
+    "type": "False"
+  },
+  {
+    "account_id": "17",
+    "amount": "7266.17",
+    "medium": "transfer",
+    "timestamp": "2020-04-13 05:09:13",
+    "transaction_id": "460",
+    "type": "True"
+  },
+  {
+    "account_id": "63",
+    "amount": "5288.81",
+    "medium": "transfer",
+    "timestamp": "2020-04-26 20:07:32",
+    "transaction_id": "461",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": ") --",
+    "medium": "online",
+    "timestamp": "2024-02-20 11:07:55",
+    "transaction_id": "462",
+    "type": "True"
+  },
+  {
+    "account_id": "63",
+    "amount": "6607.44",
+    "medium": "online",
+    "timestamp": "2024-02-20 11:07:55",
+    "transaction_id": "462",
+    "type": "True"
+  },
+  {
+    "account_id": "32",
+    "amount": "6506.09",
+    "medium": "card",
+    "timestamp": "2024-04-07 14:32:23",
+    "transaction_id": "463",
+    "type": "False"
+  },
+  {
+    "account_id": "59",
+    "amount": "2730.79",
+    "medium": "transfer",
+    "timestamp": "2024-01-31 01:47:47",
+    "transaction_id": "464",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "9794.74",
+    "medium": "online",
+    "timestamp": "2021-01-18 12:58:52",
+    "transaction_id": "465",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "9632.33",
+    "medium": "card",
+    "timestamp": "2024-09-20 02:29:03",
+    "transaction_id": "466",
+    "type": "True"
+  },
+  {
+    "account_id": "81",
+    "amount": "9552.46",
+    "medium": "card",
+    "timestamp": "2021-03-01 07:24:47",
+    "transaction_id": "467",
+    "type": "False"
+  },
+  {
+    "account_id": "40",
+    "amount": "1672.21",
+    "medium": "transfer",
+    "timestamp": "2022-01-19 16:30:32",
+    "transaction_id": "468",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "2893.36",
+    "medium": "transfer",
+    "timestamp": "2020-02-25 02:53:43",
+    "transaction_id": "469",
+    "type": "True"
+  },
+  {
+    "account_id": "26",
+    "amount": ") --",
+    "medium": "transfer",
+    "timestamp": "2021-12-08 19:31:29",
+    "transaction_id": "470",
+    "type": "False"
+  },
+  {
+    "account_id": "26",
+    "amount": "6458.21",
+    "medium": "transfer",
+    "timestamp": "2021-12-08 19:31:29",
+    "transaction_id": "470",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "8027.22",
+    "medium": "online",
+    "timestamp": "2020-09-04 21:28:03",
+    "transaction_id": "471",
+    "type": "True"
+  },
+  {
+    "account_id": "54",
+    "amount": "2799.89",
+    "medium": "online",
+    "timestamp": "2020-02-17 14:59:05",
+    "transaction_id": "472",
+    "type": "True"
+  },
+  {
+    "account_id": "86",
+    "amount": "9747.74",
+    "medium": "online",
+    "timestamp": "2022-07-22 20:47:01",
+    "transaction_id": "473",
+    "type": "False"
+  },
+  {
+    "account_id": "95",
+    "amount": "8079.55",
+    "medium": "card",
+    "timestamp": "2023-12-02 01:18:10",
+    "transaction_id": "474",
+    "type": "True"
+  },
+  {
+    "account_id": "79",
+    "amount": "4616.28",
+    "medium": "transfer",
+    "timestamp": "2020-10-18 08:35:12",
+    "transaction_id": "475",
+    "type": "True"
+  },
+  {
+    "account_id": "12",
+    "amount": "2699.66",
+    "medium": "transfer",
+    "timestamp": "2021-03-26 17:10:02",
+    "transaction_id": "476",
+    "type": "True"
+  },
+  {
+    "account_id": "61",
+    "amount": "5635.47",
+    "medium": "card",
+    "timestamp": "2022-07-10 20:09:19",
+    "transaction_id": "477",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "4814.53",
+    "medium": "online",
+    "timestamp": "2024-09-24 18:35:17",
+    "transaction_id": "478",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "4814.53",
+    "medium": "online",
+    "timestamp": "2024-09-24 18:35:17",
+    "transaction_id": "478",
+    "type": "False"
+  },
+  {
+    "account_id": "69",
+    "amount": "8532.45",
+    "medium": "online",
+    "timestamp": "2021-10-22 21:31:52",
+    "transaction_id": "479",
+    "type": "False"
+  },
+  {
+    "account_id": "69",
+    "amount": "8532.45",
+    "medium": "online",
+    "timestamp": "2021-10-22 21:31:52",
+    "transaction_id": "479",
+    "type": "False"
+  },
+  {
+    "account_id": "96",
+    "amount": "5944.21",
+    "medium": "transfer",
+    "timestamp": "2022-05-11 15:21:06",
+    "transaction_id": "480",
+    "type": "True"
+  },
+  {
+    "account_id": "93",
+    "amount": "9324.84",
+    "medium": "card",
+    "timestamp": "2021-03-22 19:33:09",
+    "transaction_id": "481",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "..8",
+    "medium": "transfer",
+    "timestamp": "2020-09-25 14:52:39",
+    "transaction_id": "482",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "6568.04",
+    "medium": "transfer",
+    "timestamp": "2020-09-25 14:52:39",
+    "transaction_id": "482",
+    "type": "False"
+  },
+  {
+    "account_id": "78",
+    "amount": "4204.39",
+    "medium": "transfer",
+    "timestamp": "2023-04-25 02:20:59",
+    "transaction_id": "483",
+    "type": "True"
+  },
+  {
+    "account_id": "64",
+    "amount": "9811.41",
+    "medium": "transfer",
+    "timestamp": "2022-03-30 12:26:49",
+    "transaction_id": "484",
+    "type": "False"
+  },
+  {
+    "account_id": "86",
+    "amount": "6245.96",
+    "medium": "card",
+    "timestamp": "2024-09-12 18:52:42",
+    "transaction_id": "485",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "4887.85",
+    "medium": "online",
+    "timestamp": "2023-04-28 05:01:55",
+    "transaction_id": "486",
+    "type": "False"
+  },
+  {
+    "account_id": "5",
+    "amount": "4277.1",
+    "medium": "card",
+    "timestamp": "2020-07-03 09:34:22",
+    "transaction_id": "487",
+    "type": "False"
+  },
+  {
+    "account_id": "13",
+    "amount": "4427.77",
+    "medium": "card",
+    "timestamp": "2023-09-20 16:11:52",
+    "transaction_id": "488",
+    "type": "True"
+  },
+  {
+    "account_id": "67",
+    "amount": "6623.51",
+    "medium": "online",
+    "timestamp": "2023-01-11 08:03:38",
+    "transaction_id": "489",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "'",
+    "medium": "card",
+    "timestamp": "2021-02-03 11:03:05",
+    "transaction_id": "490",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "6294.76",
+    "medium": "card",
+    "timestamp": "2021-02-03 11:03:05",
+    "transaction_id": "490",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "542.12",
+    "medium": "card",
+    "timestamp": "2023-12-03 15:08:21",
+    "transaction_id": "491",
+    "type": "True"
+  },
+  {
+    "account_id": "36",
+    "amount": "542.12",
+    "medium": "card",
+    "timestamp": "2023-12-03 15:08:21",
+    "transaction_id": "491",
+    "type": "True"
+  },
+  {
+    "account_id": "21",
+    "amount": "1929.09",
+    "medium": "online",
+    "timestamp": "2021-12-20 20:25:08",
+    "transaction_id": "492",
+    "type": "True"
+  },
+  {
+    "account_id": "90",
+    "amount": "5613.13",
+    "medium": "online",
+    "timestamp": "2020-07-11 06:14:07",
+    "transaction_id": "493",
+    "type": "True"
+  },
+  {
+    "account_id": "62",
+    "amount": "4229.62",
+    "medium": "transfer",
+    "timestamp": "2022-10-01 01:39:28",
+    "transaction_id": "494",
+    "type": "True"
+  },
+  {
+    "account_id": "43",
+    "amount": "5345.37",
+    "medium": "transfer",
+    "timestamp": "2022-09-15 23:08:52",
+    "transaction_id": "495",
+    "type": "True"
+  },
+  {
+    "account_id": "30",
+    "amount": "3114.46",
+    "medium": "online",
+    "timestamp": "2020-06-29 01:59:23",
+    "transaction_id": "496",
+    "type": "False"
+  },
+  {
+    "account_id": "62",
+    "amount": "4306.45",
+    "medium": "card",
+    "timestamp": "2021-10-03 22:06:05",
+    "transaction_id": "497",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "9089.38",
+    "medium": "card",
+    "timestamp": "2021-01-20 23:37:15",
+    "transaction_id": "498",
+    "type": "True"
+  },
+  {
+    "account_id": "16",
+    "amount": "1246.6",
+    "medium": "card",
+    "timestamp": "2020-06-08 15:27:55",
+    "transaction_id": "499",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "9361.35",
+    "medium": "card",
+    "timestamp": "2020-08-14 14:22:02",
+    "transaction_id": "500",
+    "type": "False"
+  },
+  {
+    "account_id": "59",
+    "amount": "7777.7",
+    "medium": "online",
+    "timestamp": "2020-11-04 15:43:26",
+    "transaction_id": "501",
+    "type": "True"
+  },
+  {
+    "account_id": "55",
+    "amount": "1142.1",
+    "medium": "card",
+    "timestamp": "2022-08-04 01:55:57",
+    "transaction_id": "502",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "5202.63",
+    "medium": "online",
+    "timestamp": "2024-06-25 11:19:11",
+    "transaction_id": "503",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "7965.45",
+    "medium": "transfer",
+    "timestamp": "2020-11-21 00:08:35",
+    "transaction_id": "504",
+    "type": "False"
+  },
+  {
+    "account_id": "11",
+    "amount": "3339.96",
+    "medium": "card",
+    "timestamp": "2022-03-12 01:32:04",
+    "transaction_id": "505",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "2762.64",
+    "medium": "online",
+    "timestamp": "2021-04-25 10:47:41",
+    "transaction_id": "506",
+    "type": "True"
+  },
+  {
+    "account_id": "3",
+    "amount": "4282.15",
+    "medium": "card",
+    "timestamp": "2022-10-10 05:53:52",
+    "transaction_id": "507",
+    "type": "True"
+  },
+  {
+    "account_id": "72",
+    "amount": "1494.25",
+    "medium": "online",
+    "timestamp": "2023-10-07 03:01:00",
+    "transaction_id": "508",
+    "type": "False"
+  },
+  {
+    "account_id": "45",
+    "amount": "8600.22",
+    "medium": "transfer",
+    "timestamp": "2021-10-14 00:17:09",
+    "transaction_id": "509",
+    "type": "True"
+  },
+  {
+    "account_id": "97",
+    "amount": "3102.86",
+    "medium": "transfer",
+    "timestamp": "2020-09-17 10:46:00",
+    "transaction_id": "510",
+    "type": "True"
+  },
+  {
+    "account_id": "79",
+    "amount": "8136.8",
+    "medium": "transfer",
+    "timestamp": "2021-01-02 12:04:01",
+    "transaction_id": "511",
+    "type": "True"
+  },
+  {
+    "account_id": "78",
+    "amount": "2107.13",
+    "medium": "online",
+    "timestamp": "2022-10-26 01:06:18",
+    "transaction_id": "512",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "2150.46",
+    "medium": "transfer",
+    "timestamp": "2024-02-01 02:13:19",
+    "transaction_id": "513",
+    "type": "True"
+  },
+  {
+    "account_id": "85",
+    "amount": "3831.2",
+    "medium": "card",
+    "timestamp": "2020-04-01 13:28:59",
+    "transaction_id": "514",
+    "type": "False"
+  },
+  {
+    "account_id": "67",
+    "amount": "4360.21",
+    "medium": "card",
+    "timestamp": "2024-06-30 13:00:17",
+    "transaction_id": "515",
+    "type": "False"
+  },
+  {
+    "account_id": "9",
+    "amount": "2266.87",
+    "medium": "online",
+    "timestamp": "2023-06-18 19:13:35",
+    "transaction_id": "516",
+    "type": "False"
+  },
+  {
+    "account_id": "11",
+    "amount": "9813.74",
+    "medium": "card",
+    "timestamp": "2021-08-06 00:25:51",
+    "transaction_id": "517",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "1140.18",
+    "medium": "online",
+    "timestamp": "2023-12-21 05:02:11",
+    "transaction_id": "518",
+    "type": "False"
+  },
+  {
+    "account_id": "25",
+    "amount": "7714.95",
+    "medium": "transfer",
+    "timestamp": "2020-01-10 09:18:01",
+    "transaction_id": "519",
+    "type": "False"
+  },
+  {
+    "account_id": "64",
+    "amount": "6125.89",
+    "medium": "card",
+    "timestamp": "2021-10-18 15:15:15",
+    "transaction_id": "520",
+    "type": "True"
+  },
+  {
+    "account_id": "53",
+    "amount": "4919.13",
+    "medium": "online",
+    "timestamp": "2022-01-14 05:58:21",
+    "transaction_id": "521",
+    "type": "True"
+  },
+  {
+    "account_id": "67",
+    "amount": "7349.19",
+    "medium": "card",
+    "timestamp": "2024-06-15 01:02:15",
+    "transaction_id": "522",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "7103.12",
+    "medium": "card",
+    "timestamp": "2020-04-23 07:23:56",
+    "transaction_id": "523",
+    "type": "False"
+  },
+  {
+    "account_id": "11",
+    "amount": "1453.26",
+    "medium": "card",
+    "timestamp": "2020-05-11 19:48:56",
+    "transaction_id": "524",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "4242.81",
+    "medium": "card",
+    "timestamp": "2020-05-07 16:42:37",
+    "transaction_id": "525",
+    "type": "True"
+  },
+  {
+    "account_id": "100",
+    "amount": "4383.09",
+    "medium": "transfer",
+    "timestamp": "2020-01-31 16:45:46",
+    "transaction_id": "526",
+    "type": "False"
+  },
+  {
+    "account_id": "19",
+    "amount": "3824.95",
+    "medium": "transfer",
+    "timestamp": "2022-05-01 07:58:21",
+    "transaction_id": "527",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "7270.42",
+    "medium": "transfer",
+    "timestamp": "2020-12-01 04:05:39",
+    "transaction_id": "528",
+    "type": "True"
+  },
+  {
+    "account_id": "58",
+    "amount": "8105.85",
+    "medium": "online",
+    "timestamp": "2022-01-05 08:18:04",
+    "transaction_id": "529",
+    "type": "False"
+  },
+  {
+    "account_id": "17",
+    "amount": "INVALID",
+    "medium": "card",
+    "timestamp": "2022-09-01 19:21:51",
+    "transaction_id": "530",
+    "type": "True"
+  },
+  {
+    "account_id": "17",
+    "amount": "6493.43",
+    "medium": "card",
+    "timestamp": "2022-09-01 19:21:51",
+    "transaction_id": "530",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "9618.17",
+    "medium": "transfer",
+    "timestamp": "2022-06-06 12:01:32",
+    "transaction_id": "531",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "3345.17",
+    "medium": "transfer",
+    "timestamp": "2020-02-27 17:48:00",
+    "transaction_id": "532",
+    "type": "True"
+  },
+  {
+    "account_id": "54",
+    "amount": "8719.01",
+    "medium": "transfer",
+    "timestamp": "2022-11-23 13:08:21",
+    "transaction_id": "533",
+    "type": "True"
+  },
+  {
+    "account_id": "2",
+    "amount": "3521.07",
+    "medium": "transfer",
+    "timestamp": "2023-11-23 06:39:58",
+    "transaction_id": "534",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "9399.46",
+    "medium": "online",
+    "timestamp": "2022-09-11 15:43:33",
+    "transaction_id": "535",
+    "type": "True"
+  },
+  {
+    "account_id": "32",
+    "amount": "6311.41",
+    "medium": "online",
+    "timestamp": "2022-04-23 00:01:26",
+    "transaction_id": "536",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "5081.24",
+    "medium": "online",
+    "timestamp": "2023-12-13 04:58:40",
+    "transaction_id": "537",
+    "type": "False"
+  },
+  {
+    "account_id": "26",
+    "amount": "1677.9",
+    "medium": "card",
+    "timestamp": "2023-06-01 18:08:47",
+    "transaction_id": "538",
+    "type": "True"
+  },
+  {
+    "account_id": "81",
+    "amount": "8376.28",
+    "medium": "online",
+    "timestamp": "2022-02-19 03:34:36",
+    "transaction_id": "539",
+    "type": "False"
+  },
+  {
+    "account_id": "73",
+    "amount": "7279.7",
+    "medium": "card",
+    "timestamp": "2022-01-03 03:19:33",
+    "transaction_id": "540",
+    "type": "True"
+  },
+  {
+    "account_id": "93",
+    "amount": "7594.9",
+    "medium": "online",
+    "timestamp": "2023-04-09 01:38:16",
+    "transaction_id": "541",
+    "type": "False"
+  },
+  {
+    "account_id": "8",
+    "amount": "5664.0",
+    "medium": "card",
+    "timestamp": "2021-09-20 16:36:23",
+    "transaction_id": "542",
+    "type": "False"
+  },
+  {
+    "account_id": "4",
+    "amount": "5275.18",
+    "medium": "card",
+    "timestamp": "2023-08-03 11:50:50",
+    "transaction_id": "543",
+    "type": "False"
+  },
+  {
+    "account_id": "4",
+    "amount": "2547.5",
+    "medium": "card",
+    "timestamp": "2021-09-04 22:06:47",
+    "transaction_id": "544",
+    "type": "True"
+  },
+  {
+    "account_id": "2",
+    "amount": "5877.57",
+    "medium": "transfer",
+    "timestamp": "2023-12-10 23:03:19",
+    "transaction_id": "545",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "3044.43",
+    "medium": "card",
+    "timestamp": "2021-01-28 20:21:06",
+    "transaction_id": "546",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "3044.43",
+    "medium": "card",
+    "timestamp": "2021-01-28 20:21:06",
+    "transaction_id": "546",
+    "type": "True"
+  },
+  {
+    "account_id": "17",
+    "amount": "9240.54",
+    "medium": "transfer",
+    "timestamp": "2021-04-03 17:08:10",
+    "transaction_id": "547",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "6267.96",
+    "medium": "card",
+    "timestamp": "2023-01-25 13:56:34",
+    "transaction_id": "548",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "4178.85",
+    "medium": "card",
+    "timestamp": "2021-12-20 18:35:06",
+    "transaction_id": "549",
+    "type": "True"
+  },
+  {
+    "account_id": "34",
+    "amount": "3811.15",
+    "medium": "card",
+    "timestamp": "2021-07-17 13:41:32",
+    "transaction_id": "550",
+    "type": "False"
+  },
+  {
+    "account_id": "52",
+    "amount": "8019.53",
+    "medium": "online",
+    "timestamp": "2023-11-11 03:05:21",
+    "transaction_id": "551",
+    "type": "True"
+  },
+  {
+    "account_id": "32",
+    "amount": "1295.87",
+    "medium": "card",
+    "timestamp": "2022-04-09 18:46:34",
+    "transaction_id": "552",
+    "type": "True"
+  },
+  {
+    "account_id": "68",
+    "amount": "9303.38",
+    "medium": "online",
+    "timestamp": "2024-10-09 04:39:35",
+    "transaction_id": "553",
+    "type": "True"
+  },
+  {
+    "account_id": "64",
+    "amount": "2547.39",
+    "medium": "online",
+    "timestamp": "2024-10-01 05:44:49",
+    "transaction_id": "554",
+    "type": "True"
+  },
+  {
+    "account_id": "28",
+    "amount": "6052.04",
+    "medium": "online",
+    "timestamp": "2023-05-14 20:41:36",
+    "transaction_id": "555",
+    "type": "True"
+  },
+  {
+    "account_id": "28",
+    "amount": "6052.04",
+    "medium": "online",
+    "timestamp": "2023-05-14 20:41:36",
+    "transaction_id": "555",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "2584.26",
+    "medium": "online",
+    "timestamp": "2021-10-31 15:59:00",
+    "transaction_id": "556",
+    "type": "False"
+  },
+  {
+    "account_id": "52",
+    "amount": "7258.64",
+    "medium": "transfer",
+    "timestamp": "2020-03-14 00:38:37",
+    "transaction_id": "557",
+    "type": "True"
+  },
+  {
+    "account_id": "16",
+    "amount": "8037.99",
+    "medium": "card",
+    "timestamp": "2021-05-17 08:11:23",
+    "transaction_id": "558",
+    "type": "False"
+  },
+  {
+    "account_id": "89",
+    "amount": "5256.85",
+    "medium": "transfer",
+    "timestamp": "2021-04-20 18:43:08",
+    "transaction_id": "559",
+    "type": "False"
+  },
+  {
+    "account_id": "8",
+    "amount": "4576.51",
+    "medium": "online",
+    "timestamp": "2022-12-21 22:48:14",
+    "transaction_id": "560",
+    "type": "True"
+  },
+  {
+    "account_id": "74",
+    "amount": "6783.64",
+    "medium": "online",
+    "timestamp": "2024-08-06 23:00:34",
+    "transaction_id": "561",
+    "type": "True"
+  },
+  {
+    "account_id": "44",
+    "amount": "8862.6",
+    "medium": "transfer",
+    "timestamp": "2024-02-03 09:25:52",
+    "transaction_id": "562",
+    "type": "True"
+  },
+  {
+    "account_id": "17",
+    "amount": "6936.78",
+    "medium": "transfer",
+    "timestamp": "2020-11-24 01:06:30",
+    "transaction_id": "563",
+    "type": "False"
+  },
+  {
+    "account_id": "54",
+    "amount": "8210.36",
+    "medium": "online",
+    "timestamp": "2024-08-03 21:09:03",
+    "transaction_id": "564",
+    "type": "False"
+  },
+  {
+    "account_id": "16",
+    "amount": "2797.29",
+    "medium": "online",
+    "timestamp": "2022-01-15 00:56:04",
+    "transaction_id": "565",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "156.35",
+    "medium": "transfer",
+    "timestamp": "2022-02-05 17:55:13",
+    "transaction_id": "566",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "5907.96",
+    "medium": "card",
+    "timestamp": "2024-06-28 15:49:28",
+    "transaction_id": "567",
+    "type": "True"
+  },
+  {
+    "account_id": "78",
+    "amount": "1004.56",
+    "medium": "transfer",
+    "timestamp": "2020-06-17 10:49:58",
+    "transaction_id": "568",
+    "type": "True"
+  },
+  {
+    "account_id": "81",
+    "amount": "4545.86",
+    "medium": "card",
+    "timestamp": "2024-04-04 08:54:03",
+    "transaction_id": "569",
+    "type": "True"
+  },
+  {
+    "account_id": "78",
+    "amount": "584.43",
+    "medium": "transfer",
+    "timestamp": "2024-09-05 05:05:51",
+    "transaction_id": "570",
+    "type": "True"
+  },
+  {
+    "account_id": "78",
+    "amount": "584.43",
+    "medium": "transfer",
+    "timestamp": "2024-09-05 05:05:51",
+    "transaction_id": "570",
+    "type": "True"
+  },
+  {
+    "account_id": "81",
+    "amount": "607.9",
+    "medium": "card",
+    "timestamp": "2022-02-16 08:39:39",
+    "transaction_id": "571",
+    "type": "False"
+  },
+  {
+    "account_id": "82",
+    "amount": "6075.54",
+    "medium": "card",
+    "timestamp": "2021-01-13 05:04:26",
+    "transaction_id": "572",
+    "type": "False"
+  },
+  {
+    "account_id": "18",
+    "amount": "1457.48",
+    "medium": "card",
+    "timestamp": "2021-06-07 23:32:46",
+    "transaction_id": "573",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "7242.61",
+    "medium": "card",
+    "timestamp": "2023-11-08 16:48:51",
+    "transaction_id": "574",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "4404.09",
+    "medium": "transfer",
+    "timestamp": "2023-06-30 14:11:09",
+    "transaction_id": "575",
+    "type": "True"
+  },
+  {
+    "account_id": "5",
+    "amount": "6231.13",
+    "medium": "online",
+    "timestamp": "2022-10-08 13:48:17",
+    "transaction_id": "576",
+    "type": "False"
+  },
+  {
+    "account_id": "48",
+    "amount": "7760.49",
+    "medium": "online",
+    "timestamp": "2021-05-21 19:14:02",
+    "transaction_id": "577",
+    "type": "False"
+  },
+  {
+    "account_id": "74",
+    "amount": "9021.8",
+    "medium": "other",
+    "timestamp": "2022-03-27 11:07:54",
+    "transaction_id": "578",
+    "type": "True"
+  },
+  {
+    "account_id": "67",
+    "amount": "9915.51",
+    "medium": "card",
+    "timestamp": "2020-05-15 15:51:30",
+    "transaction_id": "579",
+    "type": "False"
+  },
+  {
+    "account_id": "37",
+    "amount": "9383.53",
+    "medium": "online",
+    "timestamp": "2022-06-05 23:33:52",
+    "transaction_id": "580",
+    "type": "True"
+  },
+  {
+    "account_id": "86",
+    "amount": "6460.73",
+    "medium": "card",
+    "timestamp": "2022-03-12 12:12:01",
+    "transaction_id": "581",
+    "type": "True"
+  },
+  {
+    "account_id": "46",
+    "amount": "256.03",
+    "medium": "online",
+    "timestamp": "2021-12-07 21:02:59",
+    "transaction_id": "582",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "2974.13",
+    "medium": "online",
+    "timestamp": "2022-01-06 02:49:15",
+    "transaction_id": "583",
+    "type": "True"
+  },
+  {
+    "account_id": "41",
+    "amount": "6393.77",
+    "medium": "card",
+    "timestamp": "2023-07-31 13:53:09",
+    "transaction_id": "584",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "4732.31",
+    "medium": "transfer",
+    "timestamp": "2020-02-03 10:10:34",
+    "transaction_id": "585",
+    "type": "False"
+  },
+  {
+    "account_id": "16",
+    "amount": "9979.46",
+    "medium": "other",
+    "timestamp": "2020-07-04 17:08:12",
+    "transaction_id": "586",
+    "type": "True"
+  },
+  {
+    "account_id": "74",
+    "amount": "2855.04",
+    "medium": "online",
+    "timestamp": "2020-11-21 04:50:42",
+    "transaction_id": "587",
+    "type": "False"
+  },
+  {
+    "account_id": "59",
+    "amount": "3029.43",
+    "medium": "card",
+    "timestamp": "2024-05-17 21:34:48",
+    "transaction_id": "588",
+    "type": "True"
+  },
+  {
+    "account_id": "62",
+    "amount": "4067.01",
+    "medium": "card",
+    "timestamp": "2020-01-24 21:02:04",
+    "transaction_id": "589",
+    "type": "False"
+  },
+  {
+    "account_id": "43",
+    "amount": "4225.67",
+    "medium": "transfer",
+    "timestamp": "2023-09-30 09:42:04",
+    "transaction_id": "590",
+    "type": "False"
+  },
+  {
+    "account_id": "46",
+    "amount": "4676.71",
+    "medium": "online",
+    "timestamp": "2020-12-27 18:39:57",
+    "transaction_id": "591",
+    "type": "True"
+  },
+  {
+    "account_id": "86",
+    "amount": "4191.53",
+    "medium": "transfer",
+    "timestamp": "2020-05-26 03:46:35",
+    "transaction_id": "592",
+    "type": "True"
+  },
+  {
+    "account_id": "25",
+    "amount": "9990.4",
+    "medium": "online",
+    "timestamp": "2021-01-25 11:08:23",
+    "transaction_id": "593",
+    "type": "False"
+  },
+  {
+    "account_id": "45",
+    "amount": "2863.23",
+    "medium": "online",
+    "timestamp": "2021-11-26 21:21:51",
+    "transaction_id": "594",
+    "type": "False"
+  },
+  {
+    "account_id": "5",
+    "amount": "6544.59",
+    "medium": "transfer",
+    "timestamp": "2020-03-14 03:26:08",
+    "transaction_id": "595",
+    "type": "True"
+  },
+  {
+    "account_id": "68",
+    "amount": "9628.0",
+    "medium": "card",
+    "timestamp": "2021-04-17 11:06:59",
+    "transaction_id": "596",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "374.84",
+    "medium": "transfer",
+    "timestamp": "2020-05-24 03:20:19",
+    "transaction_id": "597",
+    "type": "True"
+  },
+  {
+    "account_id": "37",
+    "amount": "4485.51",
+    "medium": "card",
+    "timestamp": "2023-03-28 10:20:18",
+    "transaction_id": "598",
+    "type": "False"
+  },
+  {
+    "account_id": "94",
+    "amount": "2952.26",
+    "medium": "card",
+    "timestamp": "2020-04-29 18:54:23",
+    "transaction_id": "599",
+    "type": "True"
+  },
+  {
+    "account_id": "30",
+    "amount": "5780.68",
+    "medium": "transfer",
+    "timestamp": "2021-06-17 18:43:34",
+    "transaction_id": "600",
+    "type": "False"
+  },
+  {
+    "account_id": "88",
+    "amount": "6571.16",
+    "medium": "transfer",
+    "timestamp": "2022-10-11 20:25:45",
+    "transaction_id": "601",
+    "type": "False"
+  },
+  {
+    "account_id": "8",
+    "amount": "2144.65",
+    "medium": "online",
+    "timestamp": "2023-11-10 19:39:14",
+    "transaction_id": "602",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "3142.57",
+    "medium": "card",
+    "timestamp": "2023-05-21 20:58:31",
+    "transaction_id": "603",
+    "type": "False"
+  },
+  {
+    "account_id": "95",
+    "amount": "8397.83",
+    "medium": "transfer",
+    "timestamp": "2022-10-26 16:20:40",
+    "transaction_id": "604",
+    "type": "False"
+  },
+  {
+    "account_id": "17",
+    "amount": "215.5",
+    "medium": "transfer",
+    "timestamp": "2024-03-17 21:15:02",
+    "transaction_id": "605",
+    "type": "False"
+  },
+  {
+    "account_id": "74",
+    "amount": "3114.57",
+    "medium": "card",
+    "timestamp": "2020-04-11 01:30:25",
+    "transaction_id": "606",
+    "type": "True"
+  },
+  {
+    "account_id": "74",
+    "amount": "3114.57",
+    "medium": "card",
+    "timestamp": "2020-04-11 01:30:25",
+    "transaction_id": "606",
+    "type": "True"
+  },
+  {
+    "account_id": "62",
+    "amount": "2963.34",
+    "medium": "online",
+    "timestamp": "2021-08-15 05:22:05",
+    "transaction_id": "607",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "7906.37",
+    "medium": "transfer",
+    "timestamp": "2020-07-07 09:54:22",
+    "transaction_id": "608",
+    "type": "False"
+  },
+  {
+    "account_id": "85",
+    "amount": "8652.02",
+    "medium": "card",
+    "timestamp": "2021-11-04 19:50:29",
+    "transaction_id": "609",
+    "type": "True"
+  },
+  {
+    "account_id": "92",
+    "amount": "3692.25",
+    "medium": "online",
+    "timestamp": "2024-04-28 19:56:56",
+    "transaction_id": "610",
+    "type": "True"
+  },
+  {
+    "account_id": "45",
+    "amount": "8361.69",
+    "medium": "transfer",
+    "timestamp": "2020-08-06 02:20:41",
+    "transaction_id": "611",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "7517.67",
+    "medium": "online",
+    "timestamp": "2024-05-27 11:15:00",
+    "transaction_id": "612",
+    "type": "True"
+  },
+  {
+    "account_id": "24",
+    "amount": "4503.03",
+    "medium": "transfer",
+    "timestamp": "2020-03-02 05:56:10",
+    "transaction_id": "613",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "4406.3",
+    "medium": "transfer",
+    "timestamp": "2020-01-01 13:48:18",
+    "transaction_id": "614",
+    "type": "True"
+  },
+  {
+    "account_id": "83",
+    "amount": "5029.7",
+    "medium": "card",
+    "timestamp": "2022-01-13 04:03:32",
+    "transaction_id": "615",
+    "type": "True"
+  },
+  {
+    "account_id": "2",
+    "amount": "3253.34",
+    "medium": "online",
+    "timestamp": "2022-05-21 06:49:54",
+    "transaction_id": "616",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "geff4",
+    "medium": "online",
+    "timestamp": "2023-07-19 21:13:14",
+    "transaction_id": "617",
+    "type": "True"
+  },
+  {
+    "account_id": "29",
+    "amount": "1234.66",
+    "medium": "online",
+    "timestamp": "2023-07-19 21:13:14",
+    "transaction_id": "617",
+    "type": "True"
+  },
+  {
+    "account_id": "92",
+    "amount": "3286.52",
+    "medium": "online",
+    "timestamp": "2021-02-03 07:49:37",
+    "transaction_id": "618",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "8371.31",
+    "medium": "transfer",
+    "timestamp": "2020-08-28 03:17:34",
+    "transaction_id": "619",
+    "type": "True"
+  },
+  {
+    "account_id": "12",
+    "amount": "204.58",
+    "medium": "card",
+    "timestamp": "2024-04-24 03:35:38",
+    "transaction_id": "620",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "3869.61",
+    "medium": "online",
+    "timestamp": "2021-08-05 19:05:22",
+    "transaction_id": "621",
+    "type": "False"
+  },
+  {
+    "account_id": "41",
+    "amount": "7432.22",
+    "medium": "transfer",
+    "timestamp": "2022-07-31 12:55:29",
+    "transaction_id": "622",
+    "type": "True"
+  },
+  {
+    "account_id": "40",
+    "amount": "7659.59",
+    "medium": "transfer",
+    "timestamp": "2024-06-03 03:03:27",
+    "transaction_id": "623",
+    "type": "True"
+  },
+  {
+    "account_id": "17",
+    "amount": "8203.76",
+    "medium": "online",
+    "timestamp": "2023-02-06 16:53:55",
+    "transaction_id": "624",
+    "type": "False"
+  },
+  {
+    "account_id": "59",
+    "amount": "4545.74",
+    "medium": "transfer",
+    "timestamp": "2020-07-22 00:52:58",
+    "transaction_id": "625",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "3546.62",
+    "medium": "card",
+    "timestamp": "2023-06-24 13:27:26",
+    "transaction_id": "626",
+    "type": "False"
+  },
+  {
+    "account_id": "20",
+    "amount": "5555.07",
+    "medium": "transfer",
+    "timestamp": "2022-01-19 19:46:41",
+    "transaction_id": "627",
+    "type": "True"
+  },
+  {
+    "account_id": "15",
+    "amount": "2975.93",
+    "medium": "card",
+    "timestamp": "2024-01-30 10:58:00",
+    "transaction_id": "628",
+    "type": "False"
+  },
+  {
+    "account_id": "94",
+    "amount": "2075.05",
+    "medium": "card",
+    "timestamp": "2022-01-25 20:49:56",
+    "transaction_id": "629",
+    "type": "False"
+  },
+  {
+    "account_id": "4",
+    "amount": "3817.98",
+    "medium": "online",
+    "timestamp": "2022-03-03 07:24:25",
+    "transaction_id": "630",
+    "type": "False"
+  },
+  {
+    "account_id": "30",
+    "amount": "5103.73",
+    "medium": "transfer",
+    "timestamp": "2021-04-11 21:33:19",
+    "transaction_id": "631",
+    "type": "True"
+  },
+  {
+    "account_id": "30",
+    "amount": "5103.73",
+    "medium": "transfer",
+    "timestamp": "2021-04-11 21:33:19",
+    "transaction_id": "631",
+    "type": "True"
+  },
+  {
+    "account_id": "4",
+    "amount": "1018.29",
+    "medium": "online",
+    "timestamp": "2023-11-02 22:39:56",
+    "transaction_id": "632",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "6965.8",
+    "medium": "card",
+    "timestamp": "2020-10-14 11:31:07",
+    "transaction_id": "633",
+    "type": "False"
+  },
+  {
+    "account_id": "96",
+    "amount": "3227.73",
+    "medium": "online",
+    "timestamp": "2021-07-17 12:59:53",
+    "transaction_id": "634",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "2416.67",
+    "medium": "transfer",
+    "timestamp": "2024-06-21 23:40:19",
+    "transaction_id": "635",
+    "type": "False"
+  },
+  {
+    "account_id": "17",
+    "amount": "2205.7",
+    "medium": "online",
+    "timestamp": "2021-12-05 11:37:51",
+    "transaction_id": "636",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "7249.4",
+    "medium": "transfer",
+    "timestamp": "2020-09-09 02:53:14",
+    "transaction_id": "637",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "3243.57",
+    "medium": "online",
+    "timestamp": "2024-02-26 05:28:13",
+    "transaction_id": "638",
+    "type": "True"
+  },
+  {
+    "account_id": "95",
+    "amount": "69.53",
+    "medium": "card",
+    "timestamp": "2024-10-07 08:39:31",
+    "transaction_id": "639",
+    "type": "True"
+  },
+  {
+    "account_id": "8",
+    "amount": "707.06",
+    "medium": "online",
+    "timestamp": "2021-02-19 07:20:44",
+    "transaction_id": "640",
+    "type": "False"
+  },
+  {
+    "account_id": "12",
+    "amount": "6962.09",
+    "medium": "card",
+    "timestamp": "2020-06-14 22:48:43",
+    "transaction_id": "641",
+    "type": "True"
+  },
+  {
+    "account_id": "95",
+    "amount": "7083.29",
+    "medium": "transfer",
+    "timestamp": "2022-09-30 01:32:48",
+    "transaction_id": "642",
+    "type": "True"
+  },
+  {
+    "account_id": "38",
+    "amount": "8547.69",
+    "medium": "online",
+    "timestamp": "2023-03-05 21:45:57",
+    "transaction_id": "643",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "9761.22",
+    "medium": "online",
+    "timestamp": "2023-06-12 08:55:11",
+    "transaction_id": "644",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "9761.22",
+    "medium": "online",
+    "timestamp": "2023-06-12 08:55:11",
+    "transaction_id": "644",
+    "type": "True"
+  },
+  {
+    "account_id": "45",
+    "amount": "6092.37",
+    "medium": "online",
+    "timestamp": "2022-11-28 06:23:12",
+    "transaction_id": "645",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "3481.94",
+    "medium": "card",
+    "timestamp": "2020-02-29 18:22:02",
+    "transaction_id": "646",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "9623.73",
+    "medium": "transfer",
+    "timestamp": "2021-10-09 05:01:22",
+    "transaction_id": "647",
+    "type": "True"
+  },
+  {
+    "account_id": "97",
+    "amount": "5743.14",
+    "medium": "transfer",
+    "timestamp": "2022-12-20 22:12:05",
+    "transaction_id": "648",
+    "type": "False"
+  },
+  {
+    "account_id": "94",
+    "amount": "3639.9",
+    "medium": "transfer",
+    "timestamp": "2023-10-05 01:41:09",
+    "transaction_id": "649",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "4070.97",
+    "medium": "online",
+    "timestamp": "2020-04-22 21:09:22",
+    "transaction_id": "650",
+    "type": "True"
+  },
+  {
+    "account_id": "65",
+    "amount": "3817.37",
+    "medium": "transfer",
+    "timestamp": "2023-03-05 19:23:56",
+    "transaction_id": "651",
+    "type": "False"
+  },
+  {
+    "account_id": "7",
+    "amount": "2607.77",
+    "medium": "online",
+    "timestamp": "2020-07-31 01:27:56",
+    "transaction_id": "652",
+    "type": "True"
+  },
+  {
+    "account_id": "43",
+    "amount": "1714.77",
+    "medium": "transfer",
+    "timestamp": "2022-12-15 16:36:06",
+    "transaction_id": "653",
+    "type": "True"
+  },
+  {
+    "account_id": "1",
+    "amount": "8131.5",
+    "medium": "card",
+    "timestamp": "2024-09-08 05:31:58",
+    "transaction_id": "654",
+    "type": "True"
+  },
+  {
+    "account_id": "88",
+    "amount": "5767.19",
+    "medium": "online",
+    "timestamp": "2023-04-25 13:29:12",
+    "transaction_id": "655",
+    "type": "True"
+  },
+  {
+    "account_id": "47",
+    "amount": "2887.35",
+    "medium": "card",
+    "timestamp": "2020-05-16 09:20:01",
+    "transaction_id": "656",
+    "type": "True"
+  },
+  {
+    "account_id": "63",
+    "amount": "5683.02",
+    "medium": "transfer",
+    "timestamp": "2023-06-24 02:40:30",
+    "transaction_id": "657",
+    "type": "False"
+  },
+  {
+    "account_id": "100",
+    "amount": "427.98",
+    "medium": "online",
+    "timestamp": "2024-06-17 15:56:27",
+    "transaction_id": "658",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "8885.42",
+    "medium": "transfer",
+    "timestamp": "2022-02-03 19:08:58",
+    "transaction_id": "659",
+    "type": "True"
+  },
+  {
+    "account_id": "30",
+    "amount": "3022.52",
+    "medium": "online",
+    "timestamp": "2023-04-03 06:26:47",
+    "transaction_id": "660",
+    "type": "True"
+  },
+  {
+    "account_id": "81",
+    "amount": "1518.9",
+    "medium": "transfer",
+    "timestamp": "2021-07-16 16:34:26",
+    "transaction_id": "661",
+    "type": "True"
+  },
+  {
+    "account_id": "65",
+    "amount": "6878.3",
+    "medium": "transfer",
+    "timestamp": "2024-03-31 06:36:24",
+    "transaction_id": "662",
+    "type": "True"
+  },
+  {
+    "account_id": "43",
+    "amount": "45.71",
+    "medium": "transfer",
+    "timestamp": "2023-11-04 12:30:29",
+    "transaction_id": "663",
+    "type": "False"
+  },
+  {
+    "account_id": "33",
+    "amount": "7557.84",
+    "medium": "online",
+    "timestamp": "2022-09-21 17:33:08",
+    "transaction_id": "664",
+    "type": "True"
+  },
+  {
+    "account_id": "13",
+    "amount": "5518.85",
+    "medium": "online",
+    "timestamp": "2022-04-11 13:42:54",
+    "transaction_id": "665",
+    "type": "True"
+  },
+  {
+    "account_id": "74",
+    "amount": "8590.84",
+    "medium": "transfer",
+    "timestamp": "2022-05-25 23:23:09",
+    "transaction_id": "666",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "268.31",
+    "medium": "card",
+    "timestamp": "2020-09-22 16:39:33",
+    "transaction_id": "667",
+    "type": "False"
+  },
+  {
+    "account_id": "12",
+    "amount": "7031.71",
+    "medium": "transfer",
+    "timestamp": "2023-01-02 06:27:38",
+    "transaction_id": "668",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "4184.14",
+    "medium": "card",
+    "timestamp": "2024-05-14 03:41:23",
+    "transaction_id": "669",
+    "type": "False"
+  },
+  {
+    "account_id": "83",
+    "amount": "9390.69",
+    "medium": "card",
+    "timestamp": "2022-08-27 01:18:35",
+    "transaction_id": "670",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "9235.78",
+    "medium": "transfer",
+    "timestamp": "2024-04-05 10:27:05",
+    "transaction_id": "671",
+    "type": "False"
+  },
+  {
+    "account_id": "73",
+    "amount": "76.2",
+    "medium": "card",
+    "timestamp": "2023-10-09 17:11:12",
+    "transaction_id": "672",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "3257.03",
+    "medium": "card",
+    "timestamp": "2020-12-28 13:51:00",
+    "transaction_id": "673",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "6167.81",
+    "medium": "card",
+    "timestamp": "2021-09-04 09:42:52",
+    "transaction_id": "674",
+    "type": "False"
+  },
+  {
+    "account_id": "65",
+    "amount": "1861.76",
+    "medium": "transfer",
+    "timestamp": "2020-09-11 23:07:27",
+    "transaction_id": "675",
+    "type": "False"
+  },
+  {
+    "account_id": "92",
+    "amount": "3860.86",
+    "medium": "online",
+    "timestamp": "2022-06-01 13:40:13",
+    "transaction_id": "676",
+    "type": "False"
+  },
+  {
+    "account_id": "94",
+    "amount": "1289.4",
+    "medium": "card",
+    "timestamp": "2021-11-29 19:06:21",
+    "transaction_id": "677",
+    "type": "True"
+  },
+  {
+    "account_id": "40",
+    "amount": "1939.03",
+    "medium": "card",
+    "timestamp": "2020-06-07 02:04:03",
+    "transaction_id": "678",
+    "type": "True"
+  },
+  {
+    "account_id": "38",
+    "amount": "6916.12",
+    "medium": "transfer",
+    "timestamp": "2022-08-28 16:40:55",
+    "transaction_id": "679",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "3819.02",
+    "medium": "transfer",
+    "timestamp": "2024-06-07 12:09:22",
+    "transaction_id": "680",
+    "type": "True"
+  },
+  {
+    "account_id": "3",
+    "amount": "4477.2",
+    "medium": "card",
+    "timestamp": "2023-01-08 20:28:34",
+    "transaction_id": "681",
+    "type": "False"
+  },
+  {
+    "account_id": "3",
+    "amount": "4477.2",
+    "medium": "card",
+    "timestamp": "2023-01-08 20:28:34",
+    "transaction_id": "681",
+    "type": "False"
+  },
+  {
+    "account_id": "61",
+    "amount": "4316.08",
+    "medium": "transfer",
+    "timestamp": "2023-10-10 15:12:38",
+    "transaction_id": "682",
+    "type": "True"
+  },
+  {
+    "account_id": "43",
+    "amount": "1327.86",
+    "medium": "card",
+    "timestamp": "2020-02-17 05:13:13",
+    "transaction_id": "683",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "2212.57",
+    "medium": "online",
+    "timestamp": "2022-04-18 10:37:21",
+    "transaction_id": "684",
+    "type": "True"
+  },
+  {
+    "account_id": "59",
+    "amount": "8681.52",
+    "medium": "transfer",
+    "timestamp": "2020-10-06 05:22:10",
+    "transaction_id": "685",
+    "type": "True"
+  },
+  {
+    "account_id": "24",
+    "amount": "963.09",
+    "medium": "transfer",
+    "timestamp": "2021-06-15 14:13:49",
+    "transaction_id": "686",
+    "type": "False"
+  },
+  {
+    "account_id": "4",
+    "amount": "4197.01",
+    "medium": "card",
+    "timestamp": "2020-07-19 16:31:56",
+    "transaction_id": "687",
+    "type": "False"
+  },
+  {
+    "account_id": "94",
+    "amount": "1821.89",
+    "medium": "transfer",
+    "timestamp": "2022-08-14 01:09:57",
+    "transaction_id": "688",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "3526.2",
+    "medium": "transfer",
+    "timestamp": "2023-11-04 16:10:35",
+    "transaction_id": "689",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "3872.02",
+    "medium": "transfer",
+    "timestamp": "2022-08-19 13:36:44",
+    "transaction_id": "690",
+    "type": "False"
+  },
+  {
+    "account_id": "94",
+    "amount": "5431.08",
+    "medium": "online",
+    "timestamp": "2022-11-08 11:12:24",
+    "transaction_id": "691",
+    "type": "True"
+  },
+  {
+    "account_id": "67",
+    "amount": "9672.91",
+    "medium": "transfer",
+    "timestamp": "2024-03-22 12:00:38",
+    "transaction_id": "692",
+    "type": "True"
+  },
+  {
+    "account_id": "39",
+    "amount": "9331.01",
+    "medium": "online",
+    "timestamp": "2021-02-14 03:51:37",
+    "transaction_id": "693",
+    "type": "True"
+  },
+  {
+    "account_id": "32",
+    "amount": "2220.09",
+    "medium": "transfer",
+    "timestamp": "2022-12-11 19:21:27",
+    "transaction_id": "694",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "2928.53",
+    "medium": "other",
+    "timestamp": "2024-06-24 09:33:09",
+    "transaction_id": "695",
+    "type": "False"
+  },
+  {
+    "account_id": "41",
+    "amount": "1061.1",
+    "medium": "card",
+    "timestamp": "2021-05-02 00:34:12",
+    "transaction_id": "696",
+    "type": "True"
+  },
+  {
+    "account_id": "2",
+    "amount": "8653.52",
+    "medium": "card",
+    "timestamp": "2021-01-16 18:17:49",
+    "transaction_id": "697",
+    "type": "True"
+  },
+  {
+    "account_id": "43",
+    "amount": "7139.76",
+    "medium": "card",
+    "timestamp": "2020-05-14 20:32:12",
+    "transaction_id": "698",
+    "type": "False"
+  },
+  {
+    "account_id": "83",
+    "amount": "9494.14",
+    "medium": "transfer",
+    "timestamp": "2022-12-04 19:01:14",
+    "transaction_id": "699",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "4765.21",
+    "medium": "transfer",
+    "timestamp": "2022-09-12 18:47:00",
+    "transaction_id": "700",
+    "type": "False"
+  },
+  {
+    "account_id": "16",
+    "amount": "1101.94",
+    "medium": "online",
+    "timestamp": "2020-07-15 03:30:21",
+    "transaction_id": "701",
+    "type": "True"
+  },
+  {
+    "account_id": "33",
+    "amount": "5195.17",
+    "medium": "online",
+    "timestamp": "2020-08-30 22:06:57",
+    "transaction_id": "702",
+    "type": "False"
+  },
+  {
+    "account_id": "43",
+    "amount": "7443.31",
+    "medium": "transfer",
+    "timestamp": "2020-02-03 05:50:37",
+    "transaction_id": "703",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "2131.52",
+    "medium": "online",
+    "timestamp": "2022-06-26 10:42:25",
+    "transaction_id": "704",
+    "type": "True"
+  },
+  {
+    "account_id": "33",
+    "amount": "3432.93",
+    "medium": "card",
+    "timestamp": "2023-02-11 06:43:05",
+    "transaction_id": "705",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "940.11",
+    "medium": "online",
+    "timestamp": "2020-05-05 20:51:40",
+    "transaction_id": "706",
+    "type": "True"
+  },
+  {
+    "account_id": "53",
+    "amount": "4381.23",
+    "medium": "transfer",
+    "timestamp": "2021-05-13 21:23:49",
+    "transaction_id": "707",
+    "type": "False"
+  },
+  {
+    "account_id": "37",
+    "amount": "449.08",
+    "medium": "online",
+    "timestamp": "2023-10-22 08:36:48",
+    "transaction_id": "708",
+    "type": "True"
+  },
+  {
+    "account_id": "96",
+    "amount": "7746.88",
+    "medium": "card",
+    "timestamp": "2023-12-28 21:37:59",
+    "transaction_id": "709",
+    "type": "False"
+  },
+  {
+    "account_id": "25",
+    "amount": "7137.26",
+    "medium": "card",
+    "timestamp": "2023-12-14 20:47:16",
+    "transaction_id": "710",
+    "type": "False"
+  },
+  {
+    "account_id": "45",
+    "amount": "2590.63",
+    "medium": "online",
+    "timestamp": "2022-04-11 22:45:46",
+    "transaction_id": "711",
+    "type": "False"
+  },
+  {
+    "account_id": "45",
+    "amount": "2590.63",
+    "medium": "online",
+    "timestamp": "2022-04-11 22:45:46",
+    "transaction_id": "711",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "4307.15",
+    "medium": "online",
+    "timestamp": "2020-05-02 23:52:42",
+    "transaction_id": "712",
+    "type": "True"
+  },
+  {
+    "account_id": "65",
+    "amount": "8365.55",
+    "medium": "transfer",
+    "timestamp": "2022-03-10 00:06:09",
+    "transaction_id": "713",
+    "type": "True"
+  },
+  {
+    "account_id": "86",
+    "amount": "4405.89",
+    "medium": "card",
+    "timestamp": "2021-04-12 21:07:16",
+    "transaction_id": "714",
+    "type": "True"
+  },
+  {
+    "account_id": "1",
+    "amount": "3660.26",
+    "medium": "card",
+    "timestamp": "2022-12-30 08:15:04",
+    "transaction_id": "715",
+    "type": "True"
+  },
+  {
+    "account_id": "54",
+    "amount": "4922.29",
+    "medium": "online",
+    "timestamp": "2023-02-28 07:30:51",
+    "transaction_id": "716",
+    "type": "True"
+  },
+  {
+    "account_id": "58",
+    "amount": "INVALID",
+    "medium": "card",
+    "timestamp": "2020-06-16 16:49:10",
+    "transaction_id": "717",
+    "type": "False"
+  },
+  {
+    "account_id": "58",
+    "amount": "2202.19",
+    "medium": "card",
+    "timestamp": "2020-06-16 16:49:10",
+    "transaction_id": "717",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "8441.97",
+    "medium": "card",
+    "timestamp": "2024-07-25 06:23:05",
+    "transaction_id": "718",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "8441.97",
+    "medium": "card",
+    "timestamp": "2024-07-25 06:23:05",
+    "transaction_id": "718",
+    "type": "False"
+  },
+  {
+    "account_id": "62",
+    "amount": "9643.15",
+    "medium": "online",
+    "timestamp": "2022-10-29 17:46:34",
+    "transaction_id": "719",
+    "type": "False"
+  },
+  {
+    "account_id": "23",
+    "amount": "3258.4",
+    "medium": "online",
+    "timestamp": "2022-09-10 02:10:41",
+    "transaction_id": "720",
+    "type": "True"
+  },
+  {
+    "account_id": "63",
+    "amount": "6910.37",
+    "medium": "online",
+    "timestamp": "2024-04-06 05:17:54",
+    "transaction_id": "721",
+    "type": "True"
+  },
+  {
+    "account_id": "17",
+    "amount": "2409.48",
+    "medium": "card",
+    "timestamp": "2022-05-20 15:25:11",
+    "transaction_id": "722",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "8606.83",
+    "medium": "online",
+    "timestamp": "2020-01-30 18:22:29",
+    "transaction_id": "723",
+    "type": "False"
+  },
+  {
+    "account_id": "32",
+    "amount": "4466.4",
+    "medium": "transfer",
+    "timestamp": "2022-07-07 14:00:02",
+    "transaction_id": "724",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "4847.21",
+    "medium": "transfer",
+    "timestamp": "2021-11-01 19:15:21",
+    "transaction_id": "725",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "6735.04",
+    "medium": "transfer",
+    "timestamp": "2023-02-23 01:53:04",
+    "transaction_id": "726",
+    "type": "True"
+  },
+  {
+    "account_id": "58",
+    "amount": "3163.28",
+    "medium": "card",
+    "timestamp": "2020-03-06 19:19:34",
+    "transaction_id": "727",
+    "type": "False"
+  },
+  {
+    "account_id": "62",
+    "amount": "4801.19",
+    "medium": "transfer",
+    "timestamp": "2024-06-17 10:38:37",
+    "transaction_id": "728",
+    "type": "True"
+  },
+  {
+    "account_id": "51",
+    "amount": "1840.96",
+    "medium": "online",
+    "timestamp": "2020-04-12 22:54:10",
+    "transaction_id": "729",
+    "type": "True"
+  },
+  {
+    "account_id": "20",
+    "amount": "8725.15",
+    "medium": "card",
+    "timestamp": "2022-06-13 14:37:06",
+    "transaction_id": "730",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "6574.11",
+    "medium": "transfer",
+    "timestamp": "2020-08-14 05:41:20",
+    "transaction_id": "731",
+    "type": "False"
+  },
+  {
+    "account_id": "38",
+    "amount": "241.88",
+    "medium": "transfer",
+    "timestamp": "2023-11-27 02:38:51",
+    "transaction_id": "732",
+    "type": "False"
+  },
+  {
+    "account_id": "72",
+    "amount": "2653.62",
+    "medium": "online",
+    "timestamp": "2024-04-13 14:00:44",
+    "transaction_id": "733",
+    "type": "True"
+  },
+  {
+    "account_id": "19",
+    "amount": "9843.16",
+    "medium": "card",
+    "timestamp": "2021-08-14 15:36:49",
+    "transaction_id": "734",
+    "type": "False"
+  },
+  {
+    "account_id": "78",
+    "amount": "7159.7",
+    "medium": "online",
+    "timestamp": "2021-08-14 02:58:06",
+    "transaction_id": "735",
+    "type": "True"
+  },
+  {
+    "account_id": "15",
+    "amount": "1960.93",
+    "medium": "online",
+    "timestamp": "2024-04-10 04:09:19",
+    "transaction_id": "736",
+    "type": "True"
+  },
+  {
+    "account_id": "69",
+    "amount": "345.23",
+    "medium": "online",
+    "timestamp": "2021-01-12 13:46:14",
+    "transaction_id": "737",
+    "type": "False"
+  },
+  {
+    "account_id": "37",
+    "amount": "6485.1",
+    "medium": "transfer",
+    "timestamp": "2021-01-19 13:10:37",
+    "transaction_id": "738",
+    "type": "True"
+  },
+  {
+    "account_id": "58",
+    "amount": "7674.37",
+    "medium": "transfer",
+    "timestamp": "2021-09-14 08:10:24",
+    "transaction_id": "739",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "7316.31",
+    "medium": "transfer",
+    "timestamp": "2024-04-10 22:04:20",
+    "transaction_id": "740",
+    "type": "True"
+  },
+  {
+    "account_id": "1",
+    "amount": "9756.84",
+    "medium": "card",
+    "timestamp": "2020-11-27 14:58:51",
+    "transaction_id": "741",
+    "type": "False"
+  },
+  {
+    "account_id": "7",
+    "amount": "3705.72",
+    "medium": "online",
+    "timestamp": "2023-08-04 23:48:59",
+    "transaction_id": "742",
+    "type": "False"
+  },
+  {
+    "account_id": "9",
+    "amount": "1921.34",
+    "medium": "card",
+    "timestamp": "2024-08-29 04:42:17",
+    "transaction_id": "743",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "5403.81",
+    "medium": "transfer",
+    "timestamp": "2022-09-18 13:18:13",
+    "transaction_id": "744",
+    "type": "True"
+  },
+  {
+    "account_id": "33",
+    "amount": "6015.37",
+    "medium": "card",
+    "timestamp": "2022-10-21 18:25:26",
+    "transaction_id": "745",
+    "type": "False"
+  },
+  {
+    "account_id": "20",
+    "amount": "2358.24",
+    "medium": "online",
+    "timestamp": "2023-09-09 07:24:22",
+    "transaction_id": "746",
+    "type": "False"
+  },
+  {
+    "account_id": "81",
+    "amount": "1925.68",
+    "medium": "online",
+    "timestamp": "2024-02-10 15:27:41",
+    "transaction_id": "747",
+    "type": "False"
+  },
+  {
+    "account_id": "3",
+    "amount": "6058.25",
+    "medium": "online",
+    "timestamp": "2024-09-01 14:38:33",
+    "transaction_id": "748",
+    "type": "False"
+  },
+  {
+    "account_id": "98",
+    "amount": "2389.53",
+    "medium": "card",
+    "timestamp": "2021-05-26 19:01:13",
+    "transaction_id": "749",
+    "type": "True"
+  },
+  {
+    "account_id": "85",
+    "amount": "1442.71",
+    "medium": "online",
+    "timestamp": "2024-06-26 20:25:25",
+    "transaction_id": "750",
+    "type": "False"
+  },
+  {
+    "account_id": "5",
+    "amount": "9888.3",
+    "medium": "online",
+    "timestamp": "2024-08-12 14:57:59",
+    "transaction_id": "751",
+    "type": "False"
+  },
+  {
+    "account_id": "61",
+    "amount": "5848.69",
+    "medium": "transfer",
+    "timestamp": "2023-01-20 16:34:41",
+    "transaction_id": "752",
+    "type": "True"
+  },
+  {
+    "account_id": "46",
+    "amount": "5213.04",
+    "medium": "online",
+    "timestamp": "2021-07-06 03:45:58",
+    "transaction_id": "753",
+    "type": "False"
+  },
+  {
+    "account_id": "74",
+    "amount": "9167.94",
+    "medium": "online",
+    "timestamp": "2022-12-18 05:36:53",
+    "transaction_id": "754",
+    "type": "True"
+  },
+  {
+    "account_id": "99",
+    "amount": "9831.09",
+    "medium": "online",
+    "timestamp": "2020-01-25 14:16:50",
+    "transaction_id": "755",
+    "type": "False"
+  },
+  {
+    "account_id": "62",
+    "amount": "4047.41",
+    "medium": "online",
+    "timestamp": "2024-06-10 10:12:42",
+    "transaction_id": "756",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "4884.23",
+    "medium": "online",
+    "timestamp": "2020-07-12 18:41:42",
+    "transaction_id": "757",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "4187.71",
+    "medium": "online",
+    "timestamp": "2024-04-21 14:11:09",
+    "transaction_id": "758",
+    "type": "True"
+  },
+  {
+    "account_id": "96",
+    "amount": "4216.24",
+    "medium": "card",
+    "timestamp": "2020-10-16 12:08:23",
+    "transaction_id": "759",
+    "type": "True"
+  },
+  {
+    "account_id": "32",
+    "amount": "9393.35",
+    "medium": "transfer",
+    "timestamp": "2021-02-19 09:09:39",
+    "transaction_id": "760",
+    "type": "True"
+  },
+  {
+    "account_id": "9",
+    "amount": "2780.22",
+    "medium": "transfer",
+    "timestamp": "2021-04-06 18:52:59",
+    "transaction_id": "761",
+    "type": "True"
+  },
+  {
+    "account_id": "92",
+    "amount": "5850.28",
+    "medium": "transfer",
+    "timestamp": "2022-05-14 11:26:55",
+    "transaction_id": "762",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "763.57",
+    "medium": "transfer",
+    "timestamp": "2020-11-16 06:42:47",
+    "transaction_id": "763",
+    "type": "False"
+  },
+  {
+    "account_id": "85",
+    "amount": "3428.88",
+    "medium": "online",
+    "timestamp": "2022-06-26 11:47:13",
+    "transaction_id": "764",
+    "type": "True"
+  },
+  {
+    "account_id": "32",
+    "amount": "9194.74",
+    "medium": "card",
+    "timestamp": "2022-01-13 15:27:56",
+    "transaction_id": "765",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "7041.91",
+    "medium": "online",
+    "timestamp": "2022-05-02 15:54:53",
+    "transaction_id": "766",
+    "type": "False"
+  },
+  {
+    "account_id": "36",
+    "amount": "2011.45",
+    "medium": "online",
+    "timestamp": "2024-05-28 15:34:29",
+    "transaction_id": "767",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "8476.0",
+    "medium": "online",
+    "timestamp": "2020-11-21 17:03:24",
+    "transaction_id": "768",
+    "type": "False"
+  },
+  {
+    "account_id": "97",
+    "amount": "2180.53",
+    "medium": "transfer",
+    "timestamp": "2024-06-27 00:56:40",
+    "transaction_id": "769",
+    "type": "True"
+  },
+  {
+    "account_id": "42",
+    "amount": "2894.81",
+    "medium": "transfer",
+    "timestamp": "2024-09-27 17:57:09",
+    "transaction_id": "770",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "8420.82",
+    "medium": "online",
+    "timestamp": "2022-04-11 18:14:18",
+    "transaction_id": "771",
+    "type": "False"
+  },
+  {
+    "account_id": "58",
+    "amount": "4907.81",
+    "medium": "online",
+    "timestamp": "2020-10-18 20:21:04",
+    "transaction_id": "772",
+    "type": "False"
+  },
+  {
+    "account_id": "67",
+    "amount": "4810.93",
+    "medium": "card",
+    "timestamp": "2022-06-09 04:30:29",
+    "transaction_id": "773",
+    "type": "False"
+  },
+  {
+    "account_id": "84",
+    "amount": "700.46",
+    "medium": "online",
+    "timestamp": "2024-09-19 09:50:37",
+    "transaction_id": "774",
+    "type": "True"
+  },
+  {
+    "account_id": "92",
+    "amount": "4943.09",
+    "medium": "online",
+    "timestamp": "2024-01-11 04:45:24",
+    "transaction_id": "775",
+    "type": "False"
+  },
+  {
+    "account_id": "18",
+    "amount": "7693.51",
+    "medium": "transfer",
+    "timestamp": "2020-07-13 14:32:13",
+    "transaction_id": "776",
+    "type": "False"
+  },
+  {
+    "account_id": "45",
+    "amount": "6744.76",
+    "medium": "online",
+    "timestamp": "2021-01-10 21:14:45",
+    "transaction_id": "777",
+    "type": "True"
+  },
+  {
+    "account_id": "45",
+    "amount": "6744.76",
+    "medium": "online",
+    "timestamp": "2021-01-10 21:14:45",
+    "transaction_id": "777",
+    "type": "True"
+  },
+  {
+    "account_id": "68",
+    "amount": "6463.08",
+    "medium": "transfer",
+    "timestamp": "2022-04-04 10:24:58",
+    "transaction_id": "778",
+    "type": "False"
+  },
+  {
+    "account_id": "48",
+    "amount": "5925.23",
+    "medium": "card",
+    "timestamp": "2023-05-08 08:26:25",
+    "transaction_id": "779",
+    "type": "False"
+  },
+  {
+    "account_id": "88",
+    "amount": "2194.17",
+    "medium": "card",
+    "timestamp": "2024-01-27 20:12:53",
+    "transaction_id": "780",
+    "type": "True"
+  },
+  {
+    "account_id": "52",
+    "amount": "3092.59",
+    "medium": "transfer",
+    "timestamp": "2022-03-13 11:25:46",
+    "transaction_id": "781",
+    "type": "True"
+  },
+  {
+    "account_id": "20",
+    "amount": "5124.71",
+    "medium": "online",
+    "timestamp": "2023-06-26 15:31:02",
+    "transaction_id": "782",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "7034.98",
+    "medium": "card",
+    "timestamp": "2020-04-11 10:13:12",
+    "transaction_id": "783",
+    "type": "True"
+  },
+  {
+    "account_id": "72",
+    "amount": "795.07",
+    "medium": "transfer",
+    "timestamp": "2020-09-08 09:20:34",
+    "transaction_id": "784",
+    "type": "True"
+  },
+  {
+    "account_id": "16",
+    "amount": "563.74",
+    "medium": "online",
+    "timestamp": "2021-01-08 05:51:30",
+    "transaction_id": "785",
+    "type": "True"
+  },
+  {
+    "account_id": "26",
+    "amount": "365.18",
+    "medium": "online",
+    "timestamp": "2022-06-10 10:35:54",
+    "transaction_id": "786",
+    "type": "False"
+  },
+  {
+    "account_id": "33",
+    "amount": "3904.19",
+    "medium": "card",
+    "timestamp": "2020-10-01 01:16:11",
+    "transaction_id": "787",
+    "type": "False"
+  },
+  {
+    "account_id": "40",
+    "amount": "9985.36",
+    "medium": "online",
+    "timestamp": "2023-08-20 09:32:43",
+    "transaction_id": "788",
+    "type": "False"
+  },
+  {
+    "account_id": "39",
+    "amount": "7238.75",
+    "medium": "transfer",
+    "timestamp": "2020-02-01 21:06:37",
+    "transaction_id": "789",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "1417.87",
+    "medium": "card",
+    "timestamp": "2022-04-28 13:10:13",
+    "transaction_id": "790",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "7885.06",
+    "medium": "card",
+    "timestamp": "2023-11-09 02:00:45",
+    "transaction_id": "791",
+    "type": "True"
+  },
+  {
+    "account_id": "78",
+    "amount": "7328.28",
+    "medium": "transfer",
+    "timestamp": "2021-08-28 20:09:44",
+    "transaction_id": "792",
+    "type": "False"
+  },
+  {
+    "account_id": "20",
+    "amount": "3599.14",
+    "medium": "card",
+    "timestamp": "2021-08-06 11:26:43",
+    "transaction_id": "793",
+    "type": "False"
+  },
+  {
+    "account_id": "20",
+    "amount": "3599.14",
+    "medium": "card",
+    "timestamp": "2021-08-06 11:26:43",
+    "transaction_id": "793",
+    "type": "False"
+  },
+  {
+    "account_id": "58",
+    "amount": "2204.51",
+    "medium": "transfer",
+    "timestamp": "2022-02-16 18:27:07",
+    "transaction_id": "794",
+    "type": "False"
+  },
+  {
+    "account_id": "52",
+    "amount": "5028.93",
+    "medium": "card",
+    "timestamp": "2021-03-12 08:29:12",
+    "transaction_id": "795",
+    "type": "True"
+  },
+  {
+    "account_id": "19",
+    "amount": "7680.44",
+    "medium": "transfer",
+    "timestamp": "2024-06-07 22:17:59",
+    "transaction_id": "796",
+    "type": "False"
+  },
+  {
+    "account_id": "16",
+    "amount": "1460.54",
+    "medium": "online",
+    "timestamp": "2021-09-29 07:36:18",
+    "transaction_id": "797",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "217.78",
+    "medium": "card",
+    "timestamp": "2020-07-05 07:29:10",
+    "transaction_id": "798",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "37.92",
+    "medium": "transfer",
+    "timestamp": "2022-11-20 00:02:46",
+    "transaction_id": "799",
+    "type": "True"
+  },
+  {
+    "account_id": "40",
+    "amount": "9048.03",
+    "medium": "card",
+    "timestamp": "2023-12-03 14:35:22",
+    "transaction_id": "800",
+    "type": "False"
+  },
+  {
+    "account_id": "28",
+    "amount": "1726.89",
+    "medium": "online",
+    "timestamp": "2020-02-14 01:28:42",
+    "transaction_id": "801",
+    "type": "True"
+  },
+  {
+    "account_id": "65",
+    "amount": "1756.24",
+    "medium": "card",
+    "timestamp": "2020-11-15 13:26:50",
+    "transaction_id": "802",
+    "type": "True"
+  },
+  {
+    "account_id": "61",
+    "amount": "8211.0",
+    "medium": "transfer",
+    "timestamp": "2022-04-03 15:53:23",
+    "transaction_id": "803",
+    "type": "False"
+  },
+  {
+    "account_id": "40",
+    "amount": "863.8",
+    "medium": "online",
+    "timestamp": "2023-11-23 18:09:47",
+    "transaction_id": "804",
+    "type": "True"
+  },
+  {
+    "account_id": "100",
+    "amount": "2059.56",
+    "medium": "online",
+    "timestamp": "2020-06-22 09:17:58",
+    "transaction_id": "805",
+    "type": "True"
+  },
+  {
+    "account_id": "21",
+    "amount": "6268.78",
+    "medium": "card",
+    "timestamp": "2021-06-24 00:35:35",
+    "transaction_id": "806",
+    "type": "True"
+  },
+  {
+    "account_id": "7",
+    "amount": "3929.24",
+    "medium": "card",
+    "timestamp": "2022-12-01 04:32:25",
+    "transaction_id": "807",
+    "type": "False"
+  },
+  {
+    "account_id": "100",
+    "amount": "3496.71",
+    "medium": "transfer",
+    "timestamp": "2024-01-11 23:24:36",
+    "transaction_id": "808",
+    "type": "True"
+  },
+  {
+    "account_id": "38",
+    "amount": "1606.2",
+    "medium": "card",
+    "timestamp": "2021-04-04 21:53:43",
+    "transaction_id": "809",
+    "type": "False"
+  },
+  {
+    "account_id": "74",
+    "amount": "6952.41",
+    "medium": "transfer",
+    "timestamp": "2023-08-30 09:39:37",
+    "transaction_id": "810",
+    "type": "False"
+  },
+  {
+    "account_id": "53",
+    "amount": "1355.27",
+    "medium": "card",
+    "timestamp": "2020-03-20 20:03:54",
+    "transaction_id": "811",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "5773.27",
+    "medium": "transfer",
+    "timestamp": "2022-12-04 03:12:23",
+    "transaction_id": "812",
+    "type": "True"
+  },
+  {
+    "account_id": "50",
+    "amount": "7893.74",
+    "medium": "transfer",
+    "timestamp": "2020-08-03 09:12:04",
+    "transaction_id": "813",
+    "type": "False"
+  },
+  {
+    "account_id": "32",
+    "amount": "9391.74",
+    "medium": "card",
+    "timestamp": "2022-01-13 05:40:42",
+    "transaction_id": "814",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "4540.07",
+    "medium": "transfer",
+    "timestamp": "2021-03-26 14:50:24",
+    "transaction_id": "815",
+    "type": "True"
+  },
+  {
+    "account_id": "41",
+    "amount": "4638.18",
+    "medium": "online",
+    "timestamp": "2024-07-10 18:24:57",
+    "transaction_id": "816",
+    "type": "True"
+  },
+  {
+    "account_id": "100",
+    "amount": "2962.62",
+    "medium": "online",
+    "timestamp": "2020-12-08 20:27:56",
+    "transaction_id": "817",
+    "type": "True"
+  },
+  {
+    "account_id": "94",
+    "amount": "794.96",
+    "medium": "transfer",
+    "timestamp": "2022-12-10 20:05:26",
+    "transaction_id": "818",
+    "type": "False"
+  },
+  {
+    "account_id": "94",
+    "amount": "794.96",
+    "medium": "transfer",
+    "timestamp": "2022-12-10 20:05:26",
+    "transaction_id": "818",
+    "type": "False"
+  },
+  {
+    "account_id": "58",
+    "amount": "9789.75",
+    "medium": "online",
+    "timestamp": "2024-04-14 07:16:06",
+    "transaction_id": "819",
+    "type": "True"
+  },
+  {
+    "account_id": "29",
+    "amount": "2946.91",
+    "medium": "online",
+    "timestamp": "2022-06-11 19:31:46",
+    "transaction_id": "820",
+    "type": "True"
+  },
+  {
+    "account_id": "3",
+    "amount": "1613.43",
+    "medium": "card",
+    "timestamp": "2024-07-02 05:27:37",
+    "transaction_id": "821",
+    "type": "False"
+  },
+  {
+    "account_id": "39",
+    "amount": "6693.92",
+    "medium": "online",
+    "timestamp": "2024-03-26 09:35:16",
+    "transaction_id": "822",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "3107.92",
+    "medium": "online",
+    "timestamp": "2020-05-23 08:06:13",
+    "transaction_id": "823",
+    "type": "True"
+  },
+  {
+    "account_id": "94",
+    "amount": "8972.47",
+    "medium": "card",
+    "timestamp": "2020-02-08 07:37:00",
+    "transaction_id": "824",
+    "type": "True"
+  },
+  {
+    "account_id": "34",
+    "amount": "623.49",
+    "medium": "transfer",
+    "timestamp": "2020-06-27 11:09:59",
+    "transaction_id": "825",
+    "type": "True"
+  },
+  {
+    "account_id": "7",
+    "amount": "9466.42",
+    "medium": "card",
+    "timestamp": "2020-01-23 09:54:07",
+    "transaction_id": "826",
+    "type": "True"
+  },
+  {
+    "account_id": "34",
+    "amount": "4504.41",
+    "medium": "online",
+    "timestamp": "2022-11-05 23:35:20",
+    "transaction_id": "827",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "6832.08",
+    "medium": "card",
+    "timestamp": "2021-02-07 18:46:26",
+    "transaction_id": "828",
+    "type": "False"
+  },
+  {
+    "account_id": "90",
+    "amount": "6753.55",
+    "medium": "online",
+    "timestamp": "2021-02-10 09:14:42",
+    "transaction_id": "829",
+    "type": "True"
+  },
+  {
+    "account_id": "52",
+    "amount": "5652.92",
+    "medium": "transfer",
+    "timestamp": "2021-12-14 19:38:47",
+    "transaction_id": "830",
+    "type": "True"
+  },
+  {
+    "account_id": "88",
+    "amount": "8516.33",
+    "medium": "online",
+    "timestamp": "2020-10-04 18:04:36",
+    "transaction_id": "831",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "9895.14",
+    "medium": "card",
+    "timestamp": "2021-12-18 12:17:43",
+    "transaction_id": "832",
+    "type": "True"
+  },
+  {
+    "account_id": "28",
+    "amount": "3817.86",
+    "medium": "card",
+    "timestamp": "2020-07-22 23:59:28",
+    "transaction_id": "833",
+    "type": "True"
+  },
+  {
+    "account_id": "4",
+    "amount": "6128.81",
+    "medium": "card",
+    "timestamp": "2022-03-17 00:55:10",
+    "transaction_id": "834",
+    "type": "True"
+  },
+  {
+    "account_id": "44",
+    "amount": "7471.61",
+    "medium": "transfer",
+    "timestamp": "2020-02-24 08:06:45",
+    "transaction_id": "835",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "196.29",
+    "medium": "transfer",
+    "timestamp": "2023-12-05 15:25:39",
+    "transaction_id": "836",
+    "type": "False"
+  },
+  {
+    "account_id": "18",
+    "amount": "1915.47",
+    "medium": "card",
+    "timestamp": "2022-06-16 17:56:22",
+    "transaction_id": "837",
+    "type": "False"
+  },
+  {
+    "account_id": "13",
+    "amount": "4917.67",
+    "medium": "transfer",
+    "timestamp": "2021-05-19 11:20:59",
+    "transaction_id": "838",
+    "type": "False"
+  },
+  {
+    "account_id": "18",
+    "amount": "1799.8",
+    "medium": "transfer",
+    "timestamp": "2023-06-29 05:57:22",
+    "transaction_id": "839",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "2403.46",
+    "medium": "transfer",
+    "timestamp": "2021-07-03 22:53:48",
+    "transaction_id": "840",
+    "type": "False"
+  },
+  {
+    "account_id": "52",
+    "amount": "",
+    "medium": "card",
+    "timestamp": "2021-04-15 15:35:33",
+    "transaction_id": "841",
+    "type": "True"
+  },
+  {
+    "account_id": "52",
+    "amount": "3084.87",
+    "medium": "card",
+    "timestamp": "2021-04-15 15:35:33",
+    "transaction_id": "841",
+    "type": "True"
+  },
+  {
+    "account_id": "43",
+    "amount": "3807.64",
+    "medium": "transfer",
+    "timestamp": "2024-06-26 23:05:22",
+    "transaction_id": "842",
+    "type": "False"
+  },
+  {
+    "account_id": "74",
+    "amount": "2265.49",
+    "medium": "transfer",
+    "timestamp": "2023-04-16 21:57:22",
+    "transaction_id": "843",
+    "type": "True"
+  },
+  {
+    "account_id": "70",
+    "amount": "8745.55",
+    "medium": "transfer",
+    "timestamp": "2024-04-24 12:18:56",
+    "transaction_id": "844",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "8631.25",
+    "medium": "online",
+    "timestamp": "2020-04-01 04:17:02",
+    "transaction_id": "845",
+    "type": "False"
+  },
+  {
+    "account_id": "18",
+    "amount": "8650.36",
+    "medium": "online",
+    "timestamp": "2021-12-10 06:36:31",
+    "transaction_id": "846",
+    "type": "False"
+  },
+  {
+    "account_id": "53",
+    "amount": "4159.5",
+    "medium": "card",
+    "timestamp": "2023-01-28 08:18:46",
+    "transaction_id": "847",
+    "type": "False"
+  },
+  {
+    "account_id": "85",
+    "amount": "765.41",
+    "medium": "transfer",
+    "timestamp": "2023-10-09 01:23:47",
+    "transaction_id": "848",
+    "type": "False"
+  },
+  {
+    "account_id": "19",
+    "amount": "4763.26",
+    "medium": "card",
+    "timestamp": "2022-04-14 22:40:15",
+    "transaction_id": "849",
+    "type": "True"
+  },
+  {
+    "account_id": "37",
+    "amount": "1062.1",
+    "medium": "card",
+    "timestamp": "2021-01-28 08:38:04",
+    "transaction_id": "850",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "4782.95",
+    "medium": "transfer",
+    "timestamp": "2024-07-10 14:17:39",
+    "transaction_id": "851",
+    "type": "True"
+  },
+  {
+    "account_id": "20",
+    "amount": "5967.15",
+    "medium": "online",
+    "timestamp": "2022-11-22 09:18:28",
+    "transaction_id": "852",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "9808.27",
+    "medium": "online",
+    "timestamp": "2023-05-05 02:28:03",
+    "transaction_id": "853",
+    "type": "False"
+  },
+  {
+    "account_id": "12",
+    "amount": "3459.0",
+    "medium": "online",
+    "timestamp": "2023-12-20 02:23:38",
+    "transaction_id": "854",
+    "type": "False"
+  },
+  {
+    "account_id": "8",
+    "amount": "4402.67",
+    "medium": "card",
+    "timestamp": "2023-12-01 10:12:42",
+    "transaction_id": "855",
+    "type": "False"
+  },
+  {
+    "account_id": "68",
+    "amount": "9060.8",
+    "medium": "card",
+    "timestamp": "2022-05-23 03:15:59",
+    "transaction_id": "856",
+    "type": "False"
+  },
+  {
+    "account_id": "92",
+    "amount": "334.66",
+    "medium": "card",
+    "timestamp": "2021-04-25 12:10:45",
+    "transaction_id": "857",
+    "type": "True"
+  },
+  {
+    "account_id": "11",
+    "amount": "2024.93",
+    "medium": "transfer",
+    "timestamp": "2024-01-28 09:47:36",
+    "transaction_id": "858",
+    "type": "False"
+  },
+  {
+    "account_id": "25",
+    "amount": "902.08",
+    "medium": "online",
+    "timestamp": "2021-03-09 19:28:33",
+    "transaction_id": "859",
+    "type": "False"
+  },
+  {
+    "account_id": "84",
+    "amount": "6702.62",
+    "medium": "transfer",
+    "timestamp": "2020-07-10 23:42:17",
+    "transaction_id": "860",
+    "type": "True"
+  },
+  {
+    "account_id": "48",
+    "amount": "2416.4",
+    "medium": "transfer",
+    "timestamp": "2022-01-13 21:35:01",
+    "transaction_id": "861",
+    "type": "False"
+  },
+  {
+    "account_id": "48",
+    "amount": "2416.4",
+    "medium": "transfer",
+    "timestamp": "2022-01-13 21:35:01",
+    "transaction_id": "861",
+    "type": "False"
+  },
+  {
+    "account_id": "47",
+    "amount": "1884.83",
+    "medium": "online",
+    "timestamp": "2023-09-12 08:05:00",
+    "transaction_id": "862",
+    "type": "True"
+  },
+  {
+    "account_id": "97",
+    "amount": "1372.39",
+    "medium": "transfer",
+    "timestamp": "2021-08-08 05:19:36",
+    "transaction_id": "863",
+    "type": "True"
+  },
+  {
+    "account_id": "88",
+    "amount": "834.58",
+    "medium": "transfer",
+    "timestamp": "2023-01-27 20:45:59",
+    "transaction_id": "864",
+    "type": "False"
+  },
+  {
+    "account_id": "95",
+    "amount": "5078.38",
+    "medium": "online",
+    "timestamp": "2020-12-30 09:03:14",
+    "transaction_id": "865",
+    "type": "True"
+  },
+  {
+    "account_id": "93",
+    "amount": "2227.66",
+    "medium": "card",
+    "timestamp": "2023-02-17 12:41:39",
+    "transaction_id": "866",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "9040.94",
+    "medium": "card",
+    "timestamp": "2020-04-05 06:25:15",
+    "transaction_id": "867",
+    "type": "False"
+  },
+  {
+    "account_id": "98",
+    "amount": "4236.79",
+    "medium": "card",
+    "timestamp": "2022-04-27 08:51:04",
+    "transaction_id": "868",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "1140.42",
+    "medium": "online",
+    "timestamp": "2020-12-07 00:48:04",
+    "transaction_id": "869",
+    "type": "True"
+  },
+  {
+    "account_id": "26",
+    "amount": "604.01",
+    "medium": "other",
+    "timestamp": "2021-11-06 22:20:12",
+    "transaction_id": "870",
+    "type": "True"
+  },
+  {
+    "account_id": "13",
+    "amount": "3083.73",
+    "medium": "transfer",
+    "timestamp": "2023-01-08 20:57:13",
+    "transaction_id": "871",
+    "type": "True"
+  },
+  {
+    "account_id": "73",
+    "amount": "9631.43",
+    "medium": "online",
+    "timestamp": "2021-10-04 10:32:19",
+    "transaction_id": "872",
+    "type": "False"
+  },
+  {
+    "account_id": "90",
+    "amount": "3105.14",
+    "medium": "transfer",
+    "timestamp": "2020-12-17 03:38:14",
+    "transaction_id": "873",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "2423.45",
+    "medium": "card",
+    "timestamp": "2022-06-04 23:55:03",
+    "transaction_id": "874",
+    "type": "True"
+  },
+  {
+    "account_id": "96",
+    "amount": "1513.25",
+    "medium": "online",
+    "timestamp": "2020-01-23 13:03:23",
+    "transaction_id": "875",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "2166.47",
+    "medium": "online",
+    "timestamp": "2021-08-21 09:23:27",
+    "transaction_id": "876",
+    "type": "True"
+  },
+  {
+    "account_id": "4",
+    "amount": "533.85",
+    "medium": "transfer",
+    "timestamp": "2023-08-30 22:32:39",
+    "transaction_id": "877",
+    "type": "False"
+  },
+  {
+    "account_id": "31",
+    "amount": "8468.62",
+    "medium": "transfer",
+    "timestamp": "2022-11-17 00:13:57",
+    "transaction_id": "878",
+    "type": "False"
+  },
+  {
+    "account_id": "37",
+    "amount": "9887.68",
+    "medium": "online",
+    "timestamp": "2021-08-04 00:03:01",
+    "transaction_id": "879",
+    "type": "True"
+  },
+  {
+    "account_id": "71",
+    "amount": "7432.69",
+    "medium": "online",
+    "timestamp": "2022-03-24 06:23:18",
+    "transaction_id": "880",
+    "type": "True"
+  },
+  {
+    "account_id": "83",
+    "amount": "1974.27",
+    "medium": "card",
+    "timestamp": "2021-03-31 22:07:32",
+    "transaction_id": "881",
+    "type": "False"
+  },
+  {
+    "account_id": "74",
+    "amount": "9102.83",
+    "medium": "card",
+    "timestamp": "2022-09-04 12:31:44",
+    "transaction_id": "882",
+    "type": "False"
+  },
+  {
+    "account_id": "9",
+    "amount": "2836.33",
+    "medium": "card",
+    "timestamp": "2020-05-03 15:25:27",
+    "transaction_id": "883",
+    "type": "True"
+  },
+  {
+    "account_id": "74",
+    "amount": "2786.64",
+    "medium": "card",
+    "timestamp": "2020-03-07 12:09:50",
+    "transaction_id": "884",
+    "type": "True"
+  },
+  {
+    "account_id": "3",
+    "amount": "5213.51",
+    "medium": "online",
+    "timestamp": "2023-06-20 14:32:38",
+    "transaction_id": "885",
+    "type": "True"
+  },
+  {
+    "account_id": "52",
+    "amount": "2020.1",
+    "medium": "card",
+    "timestamp": "2024-09-25 19:11:19",
+    "transaction_id": "886",
+    "type": "False"
+  },
+  {
+    "account_id": "52",
+    "amount": "2020.1",
+    "medium": "card",
+    "timestamp": "2024-09-25 19:11:19",
+    "transaction_id": "886",
+    "type": "False"
+  },
+  {
+    "account_id": "16",
+    "amount": "3817.14",
+    "medium": "transfer",
+    "timestamp": "2024-06-21 03:04:06",
+    "transaction_id": "887",
+    "type": "False"
+  },
+  {
+    "account_id": "34",
+    "amount": "2939.98",
+    "medium": "online",
+    "timestamp": "2020-11-27 15:27:14",
+    "transaction_id": "888",
+    "type": "True"
+  },
+  {
+    "account_id": "54",
+    "amount": "1850.43",
+    "medium": "card",
+    "timestamp": "2020-06-15 01:36:24",
+    "transaction_id": "889",
+    "type": "True"
+  },
+  {
+    "account_id": "29",
+    "amount": "5363.98",
+    "medium": "online",
+    "timestamp": "2022-11-02 10:46:14",
+    "transaction_id": "890",
+    "type": "False"
+  },
+  {
+    "account_id": "98",
+    "amount": "5870.18",
+    "medium": "transfer",
+    "timestamp": "2024-06-16 06:45:44",
+    "transaction_id": "891",
+    "type": "False"
+  },
+  {
+    "account_id": "85",
+    "amount": "2451.12",
+    "medium": "transfer",
+    "timestamp": "2021-02-07 05:13:08",
+    "transaction_id": "892",
+    "type": "True"
+  },
+  {
+    "account_id": "28",
+    "amount": "450.79",
+    "medium": "online",
+    "timestamp": "2020-04-27 16:13:15",
+    "transaction_id": "893",
+    "type": "True"
+  },
+  {
+    "account_id": "92",
+    "amount": "6973.93",
+    "medium": "online",
+    "timestamp": "2023-04-29 03:24:38",
+    "transaction_id": "894",
+    "type": "False"
+  },
+  {
+    "account_id": "82",
+    "amount": "4393.81",
+    "medium": "online",
+    "timestamp": "2023-10-15 05:27:56",
+    "transaction_id": "895",
+    "type": "False"
+  },
+  {
+    "account_id": "55",
+    "amount": "6074.6",
+    "medium": "card",
+    "timestamp": "2022-09-03 11:21:37",
+    "transaction_id": "896",
+    "type": "True"
+  },
+  {
+    "account_id": "5",
+    "amount": "2032.17",
+    "medium": "card",
+    "timestamp": "2021-10-25 03:06:55",
+    "transaction_id": "897",
+    "type": "True"
+  },
+  {
+    "account_id": "28",
+    "amount": "9376.78",
+    "medium": "card",
+    "timestamp": "2023-11-07 15:45:06",
+    "transaction_id": "898",
+    "type": "False"
+  },
+  {
+    "account_id": "58",
+    "amount": "7370.87",
+    "medium": "online",
+    "timestamp": "2021-03-17 23:05:37",
+    "transaction_id": "899",
+    "type": "True"
+  },
+  {
+    "account_id": "83",
+    "amount": "3623.69",
+    "medium": "online",
+    "timestamp": "2024-05-26 08:32:14",
+    "transaction_id": "900",
+    "type": "False"
+  },
+  {
+    "account_id": "64",
+    "amount": "3148.79",
+    "medium": "transfer",
+    "timestamp": "2021-07-15 13:04:35",
+    "transaction_id": "901",
+    "type": "True"
+  },
+  {
+    "account_id": "95",
+    "amount": "6920.53",
+    "medium": "transfer",
+    "timestamp": "2021-05-08 02:52:31",
+    "transaction_id": "902",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "9212.52",
+    "medium": "transfer",
+    "timestamp": "2023-12-12 05:44:25",
+    "transaction_id": "903",
+    "type": "False"
+  },
+  {
+    "account_id": "99",
+    "amount": "9212.52",
+    "medium": "transfer",
+    "timestamp": "2023-12-12 05:44:25",
+    "transaction_id": "903",
+    "type": "False"
+  },
+  {
+    "account_id": "29",
+    "amount": "9752.44",
+    "medium": "card",
+    "timestamp": "2024-09-02 20:11:25",
+    "transaction_id": "904",
+    "type": "False"
+  },
+  {
+    "account_id": "53",
+    "amount": "246.32",
+    "medium": "card",
+    "timestamp": "2022-05-03 18:55:32",
+    "transaction_id": "905",
+    "type": "False"
+  },
+  {
+    "account_id": "30",
+    "amount": "8071.37",
+    "medium": "card",
+    "timestamp": "2023-12-26 04:01:39",
+    "transaction_id": "906",
+    "type": "False"
+  },
+  {
+    "account_id": "52",
+    "amount": "6518.69",
+    "medium": "card",
+    "timestamp": "2023-03-17 15:01:39",
+    "transaction_id": "907",
+    "type": "False"
+  },
+  {
+    "account_id": "64",
+    "amount": "6487.44",
+    "medium": "card",
+    "timestamp": "2023-10-28 06:16:41",
+    "transaction_id": "908",
+    "type": "False"
+  },
+  {
+    "account_id": "72",
+    "amount": "2002.77",
+    "medium": "card",
+    "timestamp": "2024-04-11 19:53:29",
+    "transaction_id": "909",
+    "type": "False"
+  },
+  {
+    "account_id": "93",
+    "amount": "8155.47",
+    "medium": "transfer",
+    "timestamp": "2021-09-21 01:31:46",
+    "transaction_id": "910",
+    "type": "True"
+  },
+  {
+    "account_id": "41",
+    "amount": "6886.85",
+    "medium": "online",
+    "timestamp": "2020-08-01 06:33:12",
+    "transaction_id": "911",
+    "type": "False"
+  },
+  {
+    "account_id": "25",
+    "amount": "7441.37",
+    "medium": "card",
+    "timestamp": "2023-07-13 00:14:50",
+    "transaction_id": "912",
+    "type": "False"
+  },
+  {
+    "account_id": "37",
+    "amount": "4415.64",
+    "medium": "online",
+    "timestamp": "2024-04-07 02:57:13",
+    "transaction_id": "913",
+    "type": "False"
+  },
+  {
+    "account_id": "71",
+    "amount": "3867.72",
+    "medium": "online",
+    "timestamp": "2020-12-06 06:47:53",
+    "transaction_id": "914",
+    "type": "False"
+  },
+  {
+    "account_id": "53",
+    "amount": "6876.42",
+    "medium": "transfer",
+    "timestamp": "2021-08-19 15:52:16",
+    "transaction_id": "915",
+    "type": "False"
+  },
+  {
+    "account_id": "34",
+    "amount": "739.14",
+    "medium": "transfer",
+    "timestamp": "2022-06-21 11:47:07",
+    "transaction_id": "916",
+    "type": "False"
+  },
+  {
+    "account_id": "50",
+    "amount": "154.05",
+    "medium": "transfer",
+    "timestamp": "2021-06-01 20:23:46",
+    "transaction_id": "917",
+    "type": "True"
+  },
+  {
+    "account_id": "24",
+    "amount": "3154.77",
+    "medium": "online",
+    "timestamp": "2024-07-31 02:02:40",
+    "transaction_id": "918",
+    "type": "True"
+  },
+  {
+    "account_id": "58",
+    "amount": "6365.69",
+    "medium": "card",
+    "timestamp": "2020-08-19 15:51:23",
+    "transaction_id": "919",
+    "type": "True"
+  },
+  {
+    "account_id": "48",
+    "amount": "2291.44",
+    "medium": "card",
+    "timestamp": "2021-06-23 08:41:28",
+    "transaction_id": "920",
+    "type": "False"
+  },
+  {
+    "account_id": "44",
+    "amount": "6839.81",
+    "medium": "card",
+    "timestamp": "2023-03-19 10:53:34",
+    "transaction_id": "921",
+    "type": "False"
+  },
+  {
+    "account_id": "47",
+    "amount": "323.95",
+    "medium": "transfer",
+    "timestamp": "2020-10-09 22:00:28",
+    "transaction_id": "922",
+    "type": "True"
+  },
+  {
+    "account_id": "67",
+    "amount": "3733.83",
+    "medium": "transfer",
+    "timestamp": "2020-09-20 18:16:21",
+    "transaction_id": "923",
+    "type": "True"
+  },
+  {
+    "account_id": "8",
+    "amount": "2348.53",
+    "medium": "online",
+    "timestamp": "2020-12-17 13:10:41",
+    "transaction_id": "924",
+    "type": "False"
+  },
+  {
+    "account_id": "19",
+    "amount": "2392.62",
+    "medium": "card",
+    "timestamp": "2022-11-19 10:31:20",
+    "transaction_id": "925",
+    "type": "False"
+  },
+  {
+    "account_id": "63",
+    "amount": "377.24",
+    "medium": "card",
+    "timestamp": "2020-04-21 23:51:07",
+    "transaction_id": "926",
+    "type": "True"
+  },
+  {
+    "account_id": "84",
+    "amount": "836.85",
+    "medium": "card",
+    "timestamp": "2021-11-10 07:52:48",
+    "transaction_id": "927",
+    "type": "False"
+  },
+  {
+    "account_id": "28",
+    "amount": "159.91",
+    "medium": "transfer",
+    "timestamp": "2024-06-08 14:00:37",
+    "transaction_id": "928",
+    "type": "False"
+  },
+  {
+    "account_id": "79",
+    "amount": "5624.02",
+    "medium": "card",
+    "timestamp": "2022-01-31 20:35:41",
+    "transaction_id": "929",
+    "type": "False"
+  },
+  {
+    "account_id": "70",
+    "amount": "7809.42",
+    "medium": "card",
+    "timestamp": "2020-01-02 12:03:25",
+    "transaction_id": "930",
+    "type": "True"
+  },
+  {
+    "account_id": "23",
+    "amount": "4514.69",
+    "medium": "online",
+    "timestamp": "2021-12-18 13:03:12",
+    "transaction_id": "931",
+    "type": "True"
+  },
+  {
+    "account_id": "77",
+    "amount": "5725.74",
+    "medium": "card",
+    "timestamp": "2020-02-22 19:45:26",
+    "transaction_id": "932",
+    "type": "True"
+  },
+  {
+    "account_id": "93",
+    "amount": "7399.18",
+    "medium": "transfer",
+    "timestamp": "2022-05-13 03:13:30",
+    "transaction_id": "933",
+    "type": "False"
+  },
+  {
+    "account_id": "67",
+    "amount": "6734.2",
+    "medium": "card",
+    "timestamp": "2021-09-09 07:31:26",
+    "transaction_id": "934",
+    "type": "True"
+  },
+  {
+    "account_id": "16",
+    "amount": "4897.31",
+    "medium": "card",
+    "timestamp": "2023-08-28 08:45:01",
+    "transaction_id": "935",
+    "type": "True"
+  },
+  {
+    "account_id": "89",
+    "amount": "2711.27",
+    "medium": "card",
+    "timestamp": "2021-05-21 19:11:00",
+    "transaction_id": "936",
+    "type": "False"
+  },
+  {
+    "account_id": "30",
+    "amount": "3785.84",
+    "medium": "transfer",
+    "timestamp": "2023-11-22 13:39:13",
+    "transaction_id": "937",
+    "type": "True"
+  },
+  {
+    "account_id": "96",
+    "amount": "7447.12",
+    "medium": "card",
+    "timestamp": "2021-06-04 11:30:09",
+    "transaction_id": "938",
+    "type": "False"
+  },
+  {
+    "account_id": "88",
+    "amount": "4929.52",
+    "medium": "online",
+    "timestamp": "2020-09-16 02:56:17",
+    "transaction_id": "939",
+    "type": "True"
+  },
+  {
+    "account_id": "15",
+    "amount": "8619.76",
+    "medium": "transfer",
+    "timestamp": "2022-06-20 00:36:34",
+    "transaction_id": "940",
+    "type": "False"
+  },
+  {
+    "account_id": "60",
+    "amount": "3077.37",
+    "medium": "online",
+    "timestamp": "2022-12-27 11:05:18",
+    "transaction_id": "941",
+    "type": "True"
+  },
+  {
+    "account_id": "31",
+    "amount": "8235.67",
+    "medium": "transfer",
+    "timestamp": "2023-10-25 20:30:58",
+    "transaction_id": "942",
+    "type": "True"
+  },
+  {
+    "account_id": "25",
+    "amount": "2200.6",
+    "medium": "card",
+    "timestamp": "2023-09-02 04:06:46",
+    "transaction_id": "943",
+    "type": "False"
+  },
+  {
+    "account_id": "51",
+    "amount": "2530.68",
+    "medium": "online",
+    "timestamp": "2023-12-20 09:48:44",
+    "transaction_id": "944",
+    "type": "False"
+  },
+  {
+    "account_id": "71",
+    "amount": "972.19",
+    "medium": "transfer",
+    "timestamp": "2023-09-01 09:09:26",
+    "transaction_id": "945",
+    "type": "True"
+  },
+  {
+    "account_id": "47",
+    "amount": "8877.33",
+    "medium": "online",
+    "timestamp": "2020-05-14 13:13:53",
+    "transaction_id": "946",
+    "type": "False"
+  },
+  {
+    "account_id": "45",
+    "amount": "2443.6",
+    "medium": "card",
+    "timestamp": "2023-08-01 10:10:31",
+    "transaction_id": "947",
+    "type": "False"
+  },
+  {
+    "account_id": "67",
+    "amount": "7155.22",
+    "medium": "online",
+    "timestamp": "2020-03-04 02:54:05",
+    "transaction_id": "948",
+    "type": "True"
+  }
+]
